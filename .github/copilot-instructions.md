@@ -1,0 +1,9 @@
+- [ ] Verificar se o arquivo copilot-instructions.md existe na pasta .github.
+- [ ] Especificar requisitos do projeto
+- [ ] Scaffold do projeto Next.js com frontend, backend e conexão Neon
+- [ ] Personalizar o projeto conforme requisitos
+- [ ] Instalar extensões necessárias
+- [ ] Compilar o projeto
+- [ ] Criar e executar tarefa
+- [ ] Lançar o projeto
+- [ ] Garantir documentação completa
