@@ -1,0 +1,4508 @@
+{
+  "total_movies": 500,
+  "movie_ids": [
+    253952,
+    1382406,
+    198663,
+    11,
+    12,
+    13,
+    2062,
+    18,
+    22,
+    1284120,
+    1083420,
+    90148,
+    122917,
+    2043,
+    1083433,
+    1337395,
+    1380405,
+    1151031,
+    1038392,
+    58,
+    340027,
+    98368,
+    911430,
+    739405,
+    426063,
+    223319,
+    866398,
+    82023,
+    1359977,
+    860271,
+    100464,
+    335984,
+    49266,
+    950387,
+    260211,
+    829557,
+    1007734,
+    704630,
+    120,
+    121,
+    122,
+    829560,
+    950396,
+    129,
+    622721,
+    73861,
+    872585,
+    329865,
+    698508,
+    1419406,
+    501902,
+    1054867,
+    106646,
+    1028248,
+    155,
+    12444,
+    12445,
+    630940,
+    8355,
+    823464,
+    170,
+    936108,
+    1015981,
+    22705,
+    1312946,
+    1376434,
+    755898,
+    696506,
+    512198,
+    1517772,
+    207,
+    1155281,
+    209112,
+    1337562,
+    1136867,
+    501989,
+    1429739,
+    352491,
+    238,
+    240,
+    1429747,
+    315635,
+    860410,
+    1227003,
+    481533,
+    78080,
+    641284,
+    98566,
+    987400,
+    71945,
+    1339658,
+    1124619,
+    1124620,
+    28937,
+    1530127,
+    272,
+    1011985,
+    944401,
+    278,
+    1163545,
+    285,
+    1151272,
+    1034541,
+    41264,
+    1270064,
+    899382,
+    1311031,
+    1374534,
+    1388874,
+    335,
+    1241436,
+    348,
+    565599,
+    18785,
+    22881,
+    1151334,
+    438631,
+    1218925,
+    1106289,
+    59762,
+    156022,
+    1241470,
+    389,
+    1175942,
+    12685,
+    1087891,
+    526746,
+    411,
+    260513,
+    47525,
+    635302,
+    424,
+    425,
+    10681,
+    1024452,
+    588228,
+    1307078,
+    786892,
+    1280461,
+    1229262,
+    448982,
+    1548764,
+    1321439,
+    1071585,
+    16869,
+    637415,
+    475624,
+    1509871,
+    497,
+    14836,
+    715253,
+    1477114,
+    997892,
+    1233413,
+    299534,
+    299536,
+    715287,
+    166428,
+    1450529,
+    1241634,
+    550,
+    1471014,
+    1215020,
+    557,
+    70196,
+    801335,
+    1149504,
+    660033,
+    27205,
+    1188423,
+    585,
+    346698,
+    1024592,
+    502356,
+    597,
+    846422,
+    603,
+    354912,
+    1061474,
+    270946,
+    1389158,
+    1190511,
+    791155,
+    496243,
+    844409,
+    652,
+    762509,
+    713364,
+    490132,
+    385687,
+    1321624,
+    119450,
+    541339,
+    671,
+    672,
+    673,
+    674,
+    694943,
+    675,
+    617126,
+    1088166,
+    680,
+    1495723,
+    1153714,
+    1190586,
+    1354441,
+    381648,
+    637649,
+    670435,
+    19173,
+    1393382,
+    436969,
+    613099,
+    387824,
+    1428213,
+    767,
+    8966,
+    82702,
+    11036,
+    297762,
+    629542,
+    914215,
+    808,
+    1084199,
+    807,
+    447273,
+    439079,
+    49963,
+    809,
+    1245993,
+    228150,
+    592695,
+    76600,
+    146233,
+    1241921,
+    1022787,
+    1022789,
+    521029,
+    4935,
+    1403735,
+    269149,
+    1051486,
+    862,
+    863,
+    1246049,
+    1225572,
+    80741,
+    822119,
+    1471345,
+    1241982,
+    686976,
+    109445,
+    447365,
+    1125257,
+    506763,
+    926606,
+    693134,
+    1010581,
+    404378,
+    1242011,
+    811941,
+    70575,
+    324544,
+    1188808,
+    986056,
+    216015,
+    646097,
+    211922,
+    803796,
+    1252309,
+    1319895,
+    3036,
+    1278950,
+    541671,
+    986097,
+    359410,
+    1035259,
+    402431,
+    820232,
+    1223690,
+    574475,
+    150540,
+    519182,
+    844819,
+    1326106,
+    707610,
+    615453,
+    533533,
+    533535,
+    615457,
+    1080365,
+    328752,
+    244786,
+    1082424,
+    928833,
+    1164355,
+    1010756,
+    273477,
+    64586,
+    1252428,
+    1197137,
+    1117269,
+    986206,
+    50270,
+    1311844,
+    687209,
+    527465,
+    95342,
+    68721,
+    484468,
+    167032,
+    1373310,
+    1285247,
+    1414272,
+    1406088,
+    758923,
+    1315986,
+    1184918,
+    1506456,
+    296096,
+    1246369,
+    150689,
+    691363,
+    842924,
+    195757,
+    324786,
+    842931,
+    13494,
+    414906,
+    1100988,
+    486593,
+    423108,
+    339148,
+    744653,
+    939243,
+    748783,
+    324857,
+    1197306,
+    650498,
+    967941,
+    9479,
+    912649,
+    1107215,
+    337167,
+    361743,
+    1064213,
+    1451288,
+    890138,
+    7451,
+    351523,
+    290098,
+    1215798,
+    537915,
+    1242434,
+    539972,
+    1017163,
+    1078605,
+    372049,
+    1426776,
+    372058,
+    30043,
+    507241,
+    507244,
+    1287536,
+    558449,
+    1064307,
+    968051,
+    1447287,
+    994682,
+    46466,
+    572802,
+    449927,
+    933260,
+    177572,
+    1443260,
+    460229,
+    1029575,
+    24021,
+    17880,
+    67051,
+    1156593,
+    466420,
+    228854,
+    980477,
+    435720,
+    286217,
+    9738,
+    724495,
+    384527,
+    99861,
+    1367575,
+    484889,
+    605722,
+    19995,
+    603692,
+    429617,
+    1257009,
+    974397,
+    814662,
+    552524,
+    83533,
+    9806,
+    1369679,
+    423502,
+    138843,
+    616037,
+    259693,
+    1195631,
+    1353328,
+    749170,
+    710258,
+    800378,
+    1119878,
+    1470086,
+    173705,
+    870028,
+    210577,
+    1300116,
+    1072790,
+    157336,
+    1263256,
+    1468057,
+    1466016,
+    1232546,
+    1328803,
+    1484453,
+    75432,
+    976573,
+    1726,
+    1265344,
+    16067,
+    1476292,
+    1289936,
+    1087192,
+    1545953,
+    214756,
+    1058537,
+    1537780,
+    1185528,
+    292610,
+    20227,
+    569094,
+    843527,
+    939790,
+    1011477,
+    974613,
+    1126166,
+    1244953,
+    634649,
+    14105,
+    593691,
+    315162,
+    1339166,
+    259872,
+    575265,
+    1234720,
+    575264,
+    945961,
+    929590,
+    982843,
+    18239,
+    1357633,
+    1865,
+    1285965,
+    1118031,
+    14160,
+    1103705,
+    3933,
+    1181540,
+    38757,
+    24428,
+    356216,
+    12153,
+    1294203,
+    49026,
+    1515395,
+    1234821,
+    1930,
+    1355666,
+    137113,
+    10138,
+    49051,
+    1228710,
+    604079,
+    823219,
+    348084,
+    1979,
+    1413052,
+    1404864,
+    1290182,
+    10191,
+    10193,
+    993234,
+    845781,
+    1447903,
+    370663,
+    1009640,
+    1447917,
+    102382,
+    573435
+  ],
+  "movie_details": [
+    {
+      "id": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-22",
+      "vote_average": 7.18,
+      "popularity": 642.9939,
+      "source": "popular"
+    },
+    {
+      "id": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "release_date": "2025-07-18",
+      "vote_average": 7.776,
+      "popularity": 539.9749,
+      "source": "popular"
+    },
+    {
+      "id": 755898,
+      "title": "War of the Worlds",
+      "release_date": "2025-07-29",
+      "vote_average": 4.396,
+      "popularity": 424.4831,
+      "source": "popular"
+    },
+    {
+      "id": 987400,
+      "title": "Aztec Batman: Clash of Empires",
+      "release_date": "2025-09-18",
+      "vote_average": 8.1,
+      "popularity": 294.1757,
+      "source": "popular"
+    },
+    {
+      "id": 1009640,
+      "title": "Valiant One",
+      "release_date": "2025-01-30",
+      "vote_average": 6.1,
+      "popularity": 261.9255,
+      "source": "popular"
+    },
+    {
+      "id": 1038392,
+      "title": "The Conjuring: Last Rites",
+      "release_date": "2025-09-03",
+      "vote_average": 6.574,
+      "popularity": 249.8959,
+      "source": "popular"
+    },
+    {
+      "id": 1007734,
+      "title": "Nobody 2",
+      "release_date": "2025-08-13",
+      "vote_average": 7.181,
+      "popularity": 213.3279,
+      "source": "popular"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "release_date": "2025-08-04",
+      "vote_average": 7.405,
+      "popularity": 207.7571,
+      "source": "popular"
+    },
+    {
+      "id": 1450529,
+      "title": "Gunman",
+      "release_date": "2025-06-12",
+      "vote_average": 5.8,
+      "popularity": 203.5718,
+      "source": "popular"
+    },
+    {
+      "id": 1061474,
+      "title": "Superman",
+      "release_date": "2025-07-09",
+      "vote_average": 7.48,
+      "popularity": 196.7834,
+      "source": "popular"
+    },
+    {
+      "id": 13494,
+      "title": "Red Sonja",
+      "release_date": "2025-07-31",
+      "vote_average": 5.66,
+      "popularity": 170.7195,
+      "source": "popular"
+    },
+    {
+      "id": 1028248,
+      "title": "As Good as Dead",
+      "release_date": "2022-12-16",
+      "vote_average": 6.5,
+      "popularity": 161.0157,
+      "source": "popular"
+    },
+    {
+      "id": 1035259,
+      "title": "The Naked Gun",
+      "release_date": "2025-07-30",
+      "vote_average": 6.7,
+      "popularity": 150.8553,
+      "source": "popular"
+    },
+    {
+      "id": 1447287,
+      "title": "Donde tú quieras",
+      "release_date": "2025-03-20",
+      "vote_average": 0.0,
+      "popularity": 147.7523,
+      "source": "popular"
+    },
+    {
+      "id": 803796,
+      "title": "KPop Demon Hunters",
+      "release_date": "2025-06-20",
+      "vote_average": 8.306,
+      "popularity": 139.2641,
+      "source": "popular"
+    },
+    {
+      "id": 1087192,
+      "title": "How to Train Your Dragon",
+      "release_date": "2025-06-06",
+      "vote_average": 8.028,
+      "popularity": 133.9175,
+      "source": "popular"
+    },
+    {
+      "id": 911430,
+      "title": "F1",
+      "release_date": "2025-06-25",
+      "vote_average": 7.828,
+      "popularity": 132.0008,
+      "source": "popular"
+    },
+    {
+      "id": 914215,
+      "title": "Humane",
+      "release_date": "2024-04-26",
+      "vote_average": 5.4,
+      "popularity": 131.828,
+      "source": "popular"
+    },
+    {
+      "id": 1234821,
+      "title": "Jurassic World Rebirth",
+      "release_date": "2025-07-01",
+      "vote_average": 6.41,
+      "popularity": 127.8111,
+      "source": "popular"
+    },
+    {
+      "id": 575265,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "release_date": "2025-05-17",
+      "vote_average": 7.288,
+      "popularity": 127.0526,
+      "source": "popular"
+    },
+    {
+      "id": 1242011,
+      "title": "Together",
+      "release_date": "2025-07-28",
+      "vote_average": 7.193,
+      "popularity": 124.0638,
+      "source": "popular"
+    },
+    {
+      "id": 7451,
+      "title": "xXx",
+      "release_date": "2002-08-09",
+      "vote_average": 5.959,
+      "popularity": 113.8497,
+      "source": "popular"
+    },
+    {
+      "id": 1265344,
+      "title": "Swiped",
+      "release_date": "2025-09-09",
+      "vote_average": 6.869,
+      "popularity": 111.9362,
+      "source": "popular"
+    },
+    {
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "release_date": "2025-09-23",
+      "vote_average": 7.675,
+      "popularity": 110.1617,
+      "source": "popular"
+    },
+    {
+      "id": 1369679,
+      "title": "Get Fast",
+      "release_date": "2024-12-12",
+      "vote_average": 6.038,
+      "popularity": 99.763,
+      "source": "popular"
+    },
+    {
+      "id": 1051486,
+      "title": "Stockholm Bloodbath",
+      "release_date": "2024-01-19",
+      "vote_average": 6.3,
+      "popularity": 95.7991,
+      "source": "popular"
+    },
+    {
+      "id": 1119878,
+      "title": "Ice Road: Vengeance",
+      "release_date": "2025-06-27",
+      "vote_average": 6.395,
+      "popularity": 95.1458,
+      "source": "popular"
+    },
+    {
+      "id": 1188808,
+      "title": "Tuhog",
+      "release_date": "2023-11-03",
+      "vote_average": 5.933,
+      "popularity": 92.3571,
+      "source": "popular"
+    },
+    {
+      "id": 1175942,
+      "title": "The Bad Guys 2",
+      "release_date": "2025-07-24",
+      "vote_average": 7.792,
+      "popularity": 91.7668,
+      "source": "popular"
+    },
+    {
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "release_date": "2025-01-29",
+      "vote_average": 8.043,
+      "popularity": 87.4893,
+      "source": "popular"
+    },
+    {
+      "id": 691363,
+      "title": "The Thing Behind The Door",
+      "release_date": "2023-01-16",
+      "vote_average": 5.5,
+      "popularity": 87.1631,
+      "source": "popular"
+    },
+    {
+      "id": 506763,
+      "title": "Detective Dee: The Four Heavenly Kings",
+      "release_date": "2018-07-27",
+      "vote_average": 6.226,
+      "popularity": 85.4574,
+      "source": "popular"
+    },
+    {
+      "id": 604079,
+      "title": "The Long Walk",
+      "release_date": "2025-09-10",
+      "vote_average": 7.241,
+      "popularity": 78.5864,
+      "source": "popular"
+    },
+    {
+      "id": 552524,
+      "title": "Lilo & Stitch",
+      "release_date": "2025-05-17",
+      "vote_average": 7.277,
+      "popularity": 78.1086,
+      "source": "popular"
+    },
+    {
+      "id": 1382406,
+      "title": "Striking Rescue",
+      "release_date": "2024-12-05",
+      "vote_average": 7.579,
+      "popularity": 76.5117,
+      "source": "popular"
+    },
+    {
+      "id": 1151334,
+      "title": "Eenie Meanie",
+      "release_date": "2025-08-21",
+      "vote_average": 6.397,
+      "popularity": 74.7462,
+      "source": "popular"
+    },
+    {
+      "id": 993234,
+      "title": "Borders of Love",
+      "release_date": "2022-11-03",
+      "vote_average": 6.0,
+      "popularity": 72.5112,
+      "source": "popular"
+    },
+    {
+      "id": 157336,
+      "title": "Interstellar",
+      "release_date": "2014-11-05",
+      "vote_average": 8.461,
+      "popularity": 69.4581,
+      "source": "popular"
+    },
+    {
+      "id": 155,
+      "title": "The Dark Knight",
+      "release_date": "2008-07-16",
+      "vote_average": 8.523,
+      "popularity": 67.4752,
+      "source": "popular"
+    },
+    {
+      "id": 541671,
+      "title": "Ballerina",
+      "release_date": "2025-06-04",
+      "vote_average": 7.36,
+      "popularity": 66.8603,
+      "source": "popular"
+    },
+    {
+      "id": 1218925,
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "release_date": "2025-09-19",
+      "vote_average": 9.2,
+      "popularity": 66.0064,
+      "source": "popular"
+    },
+    {
+      "id": 1252428,
+      "title": "Anaconda",
+      "release_date": "2024-03-01",
+      "vote_average": 7.2,
+      "popularity": 65.4806,
+      "source": "popular"
+    },
+    {
+      "id": 1284120,
+      "title": "The Ugly Stepsister",
+      "release_date": "2025-03-07",
+      "vote_average": 7.2,
+      "popularity": 63.7922,
+      "source": "popular"
+    },
+    {
+      "id": 1022787,
+      "title": "Elio",
+      "release_date": "2025-06-18",
+      "vote_average": 6.915,
+      "popularity": 63.7795,
+      "source": "popular"
+    },
+    {
+      "id": 715287,
+      "title": "Stepmom's Desire",
+      "release_date": "2020-05-29",
+      "vote_average": 7.2,
+      "popularity": 63.5609,
+      "source": "popular"
+    },
+    {
+      "id": 994682,
+      "title": "Sexy Oral: Uwakina Kuchibiru",
+      "release_date": "1984-02-17",
+      "vote_average": 6.0,
+      "popularity": 61.8395,
+      "source": "popular"
+    },
+    {
+      "id": 1506456,
+      "title": "Maalikaya",
+      "release_date": "2025-07-25",
+      "vote_average": 7.8,
+      "popularity": 59.6766,
+      "source": "popular"
+    },
+    {
+      "id": 1337395,
+      "title": "Kiskisan",
+      "release_date": "2024-09-27",
+      "vote_average": 6.8,
+      "popularity": 57.8463,
+      "source": "popular"
+    },
+    {
+      "id": 574475,
+      "title": "Final Destination Bloodlines",
+      "release_date": "2025-05-14",
+      "vote_average": 7.121,
+      "popularity": 56.9977,
+      "source": "popular"
+    },
+    {
+      "id": 1321439,
+      "title": "The Wrong Paris",
+      "release_date": "2025-09-11",
+      "vote_average": 6.577,
+      "popularity": 55.5596,
+      "source": "popular"
+    },
+    {
+      "id": 228854,
+      "title": "Star Virgin",
+      "release_date": "1988-06-05",
+      "vote_average": 5.3,
+      "popularity": 54.1358,
+      "source": "popular"
+    },
+    {
+      "id": 1403735,
+      "title": "Laila",
+      "release_date": "2025-02-14",
+      "vote_average": 5.8,
+      "popularity": 53.729,
+      "source": "popular"
+    },
+    {
+      "id": 138843,
+      "title": "The Conjuring",
+      "release_date": "2013-07-18",
+      "vote_average": 7.54,
+      "popularity": 52.2385,
+      "source": "popular"
+    },
+    {
+      "id": 660033,
+      "title": "How I Became a Gangster",
+      "release_date": "2019-12-25",
+      "vote_average": 7.0,
+      "popularity": 51.5135,
+      "source": "popular"
+    },
+    {
+      "id": 1367575,
+      "title": "A Line of Fire",
+      "release_date": "2025-04-05",
+      "vote_average": 6.342,
+      "popularity": 51.2469,
+      "source": "popular"
+    },
+    {
+      "id": 1083433,
+      "title": "I Know What You Did Last Summer",
+      "release_date": "2025-07-16",
+      "vote_average": 5.9,
+      "popularity": 50.2409,
+      "source": "popular"
+    },
+    {
+      "id": 41264,
+      "title": "Africa Blood and Guts",
+      "release_date": "1966-02-11",
+      "vote_average": 6.4,
+      "popularity": 49.4076,
+      "source": "popular"
+    },
+    {
+      "id": 1125257,
+      "title": "Freakier Friday",
+      "release_date": "2025-08-06",
+      "vote_average": 6.881,
+      "popularity": 48.538,
+      "source": "popular"
+    },
+    {
+      "id": 1244953,
+      "title": "Trust",
+      "release_date": "2025-08-22",
+      "vote_average": 5.88,
+      "popularity": 48.2591,
+      "source": "popular"
+    },
+    {
+      "id": 1100988,
+      "title": "28 Years Later",
+      "release_date": "2025-06-18",
+      "vote_average": 6.74,
+      "popularity": 48.0505,
+      "source": "popular"
+    },
+    {
+      "id": 1151272,
+      "title": "Sirāt",
+      "release_date": "2025-06-06",
+      "vote_average": 7.1,
+      "popularity": 47.9837,
+      "source": "popular"
+    },
+    {
+      "id": 1151031,
+      "title": "Bring Her Back",
+      "release_date": "2025-05-28",
+      "vote_average": 7.436,
+      "popularity": 47.3381,
+      "source": "popular"
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "release_date": "2025-04-16",
+      "vote_average": 7.5,
+      "popularity": 47.3042,
+      "source": "popular"
+    },
+    {
+      "id": 1011477,
+      "title": "Karate Kid: Legends",
+      "release_date": "2025-05-08",
+      "vote_average": 7.117,
+      "popularity": 47.1139,
+      "source": "popular"
+    },
+    {
+      "id": 1071585,
+      "title": "M3GAN 2.0",
+      "release_date": "2025-06-25",
+      "vote_average": 7.5,
+      "popularity": 46.4337,
+      "source": "popular"
+    },
+    {
+      "id": 1354441,
+      "title": "The Hacienda: Return of the Damned",
+      "release_date": "2025-03-09",
+      "vote_average": 5.5,
+      "popularity": 45.9762,
+      "source": "popular"
+    },
+    {
+      "id": 1010581,
+      "title": "My Fault",
+      "release_date": "2023-06-08",
+      "vote_average": 7.778,
+      "popularity": 45.4051,
+      "source": "popular"
+    },
+    {
+      "id": 70196,
+      "title": "The Veteran",
+      "release_date": "2011-04-29",
+      "vote_average": 5.8,
+      "popularity": 45.1824,
+      "source": "popular"
+    },
+    {
+      "id": 259872,
+      "title": "Skin. Like. Sun.",
+      "release_date": "2009-10-10",
+      "vote_average": 6.1,
+      "popularity": 44.992,
+      "source": "popular"
+    },
+    {
+      "id": 1246049,
+      "title": "Dracula: A Love Tale",
+      "release_date": "2025-07-30",
+      "vote_average": 7.02,
+      "popularity": 44.8552,
+      "source": "popular"
+    },
+    {
+      "id": 615453,
+      "title": "Ne Zha",
+      "release_date": "2019-07-26",
+      "vote_average": 7.893,
+      "popularity": 44.4072,
+      "source": "popular"
+    },
+    {
+      "id": 974397,
+      "title": "My Freaky Family",
+      "release_date": "2024-04-25",
+      "vote_average": 7.0,
+      "popularity": 44.2681,
+      "source": "popular"
+    },
+    {
+      "id": 1185528,
+      "title": "Legends of the Condor Heroes: The Gallants",
+      "release_date": "2025-01-29",
+      "vote_average": 6.777,
+      "popularity": 43.6305,
+      "source": "popular"
+    },
+    {
+      "id": 1242434,
+      "title": "Highest 2 Lowest",
+      "release_date": "2025-08-14",
+      "vote_average": 5.8,
+      "popularity": 43.4805,
+      "source": "popular"
+    },
+    {
+      "id": 986206,
+      "title": "Night Carnage",
+      "release_date": "2025-07-29",
+      "vote_average": 5.94,
+      "popularity": 43.3391,
+      "source": "popular"
+    },
+    {
+      "id": 1339658,
+      "title": "Oh, Hi!",
+      "release_date": "2025-07-25",
+      "vote_average": 6.43,
+      "popularity": 43.1469,
+      "source": "popular"
+    },
+    {
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "release_date": "2025-04-30",
+      "vote_average": 7.352,
+      "popularity": 42.39,
+      "source": "popular"
+    },
+    {
+      "id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "release_date": "2021-05-25",
+      "vote_average": 7.392,
+      "popularity": 41.7743,
+      "source": "popular"
+    },
+    {
+      "id": 1470086,
+      "title": "Ligaw",
+      "release_date": "2025-05-09",
+      "vote_average": 7.2,
+      "popularity": 41.6473,
+      "source": "popular"
+    },
+    {
+      "id": 24428,
+      "title": "The Avengers",
+      "release_date": "2012-04-25",
+      "vote_average": 7.81,
+      "popularity": 41.4687,
+      "source": "popular"
+    },
+    {
+      "id": 550,
+      "title": "Fight Club",
+      "release_date": "1999-10-15",
+      "vote_average": 8.438,
+      "popularity": 41.252,
+      "source": "popular"
+    },
+    {
+      "id": 1530127,
+      "title": "Lookout",
+      "release_date": "2025-09-02",
+      "vote_average": 6.4,
+      "popularity": 40.8276,
+      "source": "popular"
+    },
+    {
+      "id": 1088166,
+      "title": "Relay",
+      "release_date": "2025-08-21",
+      "vote_average": 7.1,
+      "popularity": 40.2739,
+      "source": "popular"
+    },
+    {
+      "id": 1319895,
+      "title": "Hostile Takeover",
+      "release_date": "2025-08-08",
+      "vote_average": 7.517,
+      "popularity": 40.2564,
+      "source": "popular"
+    },
+    {
+      "id": 1241921,
+      "title": "A Big Bold Beautiful Journey",
+      "release_date": "2025-09-17",
+      "vote_average": 6.233,
+      "popularity": 40.1337,
+      "source": "popular"
+    },
+    {
+      "id": 926606,
+      "title": "The Home",
+      "release_date": "2025-07-24",
+      "vote_average": 6.6,
+      "popularity": 40.1256,
+      "source": "popular"
+    },
+    {
+      "id": 791155,
+      "title": "Secret Headquarters",
+      "release_date": "2022-08-12",
+      "vote_average": 6.4,
+      "popularity": 40.1165,
+      "source": "popular"
+    },
+    {
+      "id": 1337562,
+      "title": "Splitsville",
+      "release_date": "2025-08-21",
+      "vote_average": 6.7,
+      "popularity": 38.8699,
+      "source": "popular"
+    },
+    {
+      "id": 1241470,
+      "title": "Osiris",
+      "release_date": "2025-07-25",
+      "vote_average": 6.6,
+      "popularity": 37.8806,
+      "source": "popular"
+    },
+    {
+      "id": 1389158,
+      "title": "Maa",
+      "release_date": "2025-06-20",
+      "vote_average": 6.744,
+      "popularity": 37.1006,
+      "source": "popular"
+    },
+    {
+      "id": 460229,
+      "title": "Kiss and Kill",
+      "release_date": "2017-08-08",
+      "vote_average": 5.3,
+      "popularity": 36.8638,
+      "source": "popular"
+    },
+    {
+      "id": 1429747,
+      "title": "Same Day with Someone",
+      "release_date": "2025-09-18",
+      "vote_average": 7.5,
+      "popularity": 36.824,
+      "source": "popular"
+    },
+    {
+      "id": 1419406,
+      "title": "The Shadow's Edge",
+      "release_date": "2025-08-16",
+      "vote_average": 7.4,
+      "popularity": 36.3912,
+      "source": "popular"
+    },
+    {
+      "id": 1328803,
+      "title": "Prisoner of War",
+      "release_date": "2025-09-19",
+      "vote_average": 6.6,
+      "popularity": 36.1088,
+      "source": "popular"
+    },
+    {
+      "id": 1163545,
+      "title": "Lubuk",
+      "release_date": "2024-07-18",
+      "vote_average": 0.0,
+      "popularity": 35.9964,
+      "source": "popular"
+    },
+    {
+      "id": 936108,
+      "title": "Smurfs",
+      "release_date": "2025-07-05",
+      "vote_average": 6.014,
+      "popularity": 34.6753,
+      "source": "popular"
+    },
+    {
+      "id": 986097,
+      "title": "HIM",
+      "release_date": "2025-09-18",
+      "vote_average": 5.7,
+      "popularity": 34.5044,
+      "source": "popular"
+    },
+    {
+      "id": 1024592,
+      "title": "God's Not Dead: In God We Trust",
+      "release_date": "2024-09-12",
+      "vote_average": 5.176,
+      "popularity": 34.5015,
+      "source": "popular"
+    },
+    {
+      "id": 1355666,
+      "title": "Love Untangled",
+      "release_date": "2025-08-28",
+      "vote_average": 8.484,
+      "popularity": 34.3835,
+      "source": "popular"
+    },
+    {
+      "id": 1241982,
+      "title": "Moana 2",
+      "release_date": "2024-11-21",
+      "vote_average": 7.036,
+      "popularity": 34.0796,
+      "source": "popular"
+    },
+    {
+      "id": 950387,
+      "title": "A Minecraft Movie",
+      "release_date": "2025-03-31",
+      "vote_average": 6.368,
+      "popularity": 33.9733,
+      "source": "popular"
+    },
+    {
+      "id": 259693,
+      "title": "The Conjuring 2",
+      "release_date": "2016-06-08",
+      "vote_average": 7.295,
+      "popularity": 33.651,
+      "source": "popular"
+    },
+    {
+      "id": 533535,
+      "title": "Deadpool & Wolverine",
+      "release_date": "2024-07-24",
+      "vote_average": 7.579,
+      "popularity": 33.6195,
+      "source": "popular"
+    },
+    {
+      "id": 1155281,
+      "title": "Creation of the Gods II: Demon Force",
+      "release_date": "2025-01-29",
+      "vote_average": 6.404,
+      "popularity": 33.5376,
+      "source": "popular"
+    },
+    {
+      "id": 195757,
+      "title": "The Ultimate Life",
+      "release_date": "2013-09-06",
+      "vote_average": 6.994,
+      "popularity": 33.2987,
+      "source": "popular"
+    },
+    {
+      "id": 1285965,
+      "title": "Dangerous Animals",
+      "release_date": "2025-06-05",
+      "vote_average": 6.471,
+      "popularity": 32.7084,
+      "source": "popular"
+    },
+    {
+      "id": 671,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "release_date": "2001-11-16",
+      "vote_average": 7.9,
+      "popularity": 32.639,
+      "source": "popular"
+    },
+    {
+      "id": 1326106,
+      "title": "Kaiju No. 8: Mission Recon",
+      "release_date": "2025-03-28",
+      "vote_average": 8.0,
+      "popularity": 32.6118,
+      "source": "popular"
+    },
+    {
+      "id": 1197306,
+      "title": "A Working Man",
+      "release_date": "2025-03-26",
+      "vote_average": 6.7,
+      "popularity": 32.1838,
+      "source": "popular"
+    },
+    {
+      "id": 1106289,
+      "title": "The Pickup",
+      "release_date": "2025-08-06",
+      "vote_average": 6.5,
+      "popularity": 32.0456,
+      "source": "popular"
+    },
+    {
+      "id": 1229262,
+      "title": "I Don't Understand You",
+      "release_date": "2024-03-08",
+      "vote_average": 6.048,
+      "popularity": 31.9381,
+      "source": "popular"
+    },
+    {
+      "id": 1234720,
+      "title": "Couple Exchange",
+      "release_date": "2023-03-16",
+      "vote_average": 9.8,
+      "popularity": 31.8811,
+      "source": "popular"
+    },
+    {
+      "id": 1517772,
+      "title": "Unknown Number: The High School Catfish",
+      "release_date": "2025-08-28",
+      "vote_average": 6.923,
+      "popularity": 31.6567,
+      "source": "popular"
+    },
+    {
+      "id": 950396,
+      "title": "The Gorge",
+      "release_date": "2025-02-13",
+      "vote_average": 7.696,
+      "popularity": 31.3892,
+      "source": "popular"
+    },
+    {
+      "id": 687209,
+      "title": "Female Wars: The Man Who Moved In",
+      "release_date": "2016-10-17",
+      "vote_average": 10.0,
+      "popularity": 30.8709,
+      "source": "popular"
+    },
+    {
+      "id": 635302,
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "release_date": "2020-10-16",
+      "vote_average": 8.208,
+      "popularity": 30.7082,
+      "source": "popular"
+    },
+    {
+      "id": 1278950,
+      "title": "The Ritual",
+      "release_date": "2025-04-18",
+      "vote_average": 5.8,
+      "popularity": 30.6944,
+      "source": "popular"
+    },
+    {
+      "id": 278,
+      "title": "The Shawshank Redemption",
+      "release_date": "1994-09-23",
+      "vote_average": 8.712,
+      "popularity": 30.3845,
+      "source": "popular"
+    },
+    {
+      "id": 1451288,
+      "title": "The Stepmother's Bond",
+      "release_date": "2025-05-16",
+      "vote_average": 7.5,
+      "popularity": 30.3298,
+      "source": "popular"
+    },
+    {
+      "id": 9806,
+      "title": "The Incredibles",
+      "release_date": "2004-10-27",
+      "vote_average": 7.717,
+      "popularity": 30.068,
+      "source": "popular"
+    },
+    {
+      "id": 1029575,
+      "title": "The Family Plan",
+      "release_date": "2023-12-14",
+      "vote_average": 7.255,
+      "popularity": 30.0659,
+      "source": "popular"
+    },
+    {
+      "id": 1195631,
+      "title": "William Tell",
+      "release_date": "2025-01-17",
+      "vote_average": 6.48,
+      "popularity": 29.9512,
+      "source": "popular"
+    },
+    {
+      "id": 1223690,
+      "title": "Pretty Thing",
+      "release_date": "2025-07-03",
+      "vote_average": 5.9,
+      "popularity": 29.8553,
+      "source": "popular"
+    },
+    {
+      "id": 1136867,
+      "title": "Materialists",
+      "release_date": "2025-06-12",
+      "vote_average": 6.586,
+      "popularity": 29.6317,
+      "source": "popular"
+    },
+    {
+      "id": 501902,
+      "title": "Just Friends",
+      "release_date": "2019-05-25",
+      "vote_average": 7.1,
+      "popularity": 29.6305,
+      "source": "popular"
+    },
+    {
+      "id": 1083420,
+      "title": "Adulthood",
+      "release_date": "2025-09-19",
+      "vote_average": 6.077,
+      "popularity": 29.5821,
+      "source": "popular"
+    },
+    {
+      "id": 1312946,
+      "title": "The Map That Leads to You",
+      "release_date": "2025-08-19",
+      "vote_average": 6.602,
+      "popularity": 29.5448,
+      "source": "popular"
+    },
+    {
+      "id": 1509871,
+      "title": "She Said Maybe",
+      "release_date": "2025-09-18",
+      "vote_average": 6.289,
+      "popularity": 29.466,
+      "source": "popular"
+    },
+    {
+      "id": 974613,
+      "title": "The Fabulous Four",
+      "release_date": "2024-07-26",
+      "vote_average": 5.8,
+      "popularity": 29.446,
+      "source": "popular"
+    },
+    {
+      "id": 1429739,
+      "title": "Gold Rush Gang",
+      "release_date": "2025-08-19",
+      "vote_average": 6.896,
+      "popularity": 29.3976,
+      "source": "popular"
+    },
+    {
+      "id": 211922,
+      "title": "Bless the Woman",
+      "release_date": "2003-09-04",
+      "vote_average": 5.808,
+      "popularity": 29.3356,
+      "source": "popular"
+    },
+    {
+      "id": 615457,
+      "title": "Nobody",
+      "release_date": "2021-03-18",
+      "vote_average": 7.91,
+      "popularity": 29.2889,
+      "source": "popular"
+    },
+    {
+      "id": 512198,
+      "title": "Dead Bride",
+      "release_date": "2025-01-09",
+      "vote_average": 4.8,
+      "popularity": 29.1961,
+      "source": "popular"
+    },
+    {
+      "id": 475624,
+      "title": "Sea Change",
+      "release_date": "2017-09-17",
+      "vote_average": 5.8,
+      "popularity": 29.0167,
+      "source": "popular"
+    },
+    {
+      "id": 939243,
+      "title": "Sonic the Hedgehog 3",
+      "release_date": "2024-12-19",
+      "vote_average": 7.7,
+      "popularity": 28.9995,
+      "source": "popular"
+    },
+    {
+      "id": 1156593,
+      "title": "Your Fault",
+      "release_date": "2024-12-26",
+      "vote_average": 7.13,
+      "popularity": 28.7294,
+      "source": "popular"
+    },
+    {
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "release_date": "2022-12-14",
+      "vote_average": 7.6,
+      "popularity": 28.7156,
+      "source": "popular"
+    },
+    {
+      "id": 299536,
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-25",
+      "vote_average": 8.2,
+      "popularity": 28.3997,
+      "source": "popular"
+    },
+    {
+      "id": 1022789,
+      "title": "Inside Out 2",
+      "release_date": "2024-06-11",
+      "vote_average": 7.551,
+      "popularity": 28.2521,
+      "source": "popular"
+    },
+    {
+      "id": 27205,
+      "title": "Inception",
+      "release_date": "2010-07-15",
+      "vote_average": 8.37,
+      "popularity": 28.0656,
+      "source": "popular"
+    },
+    {
+      "id": 829557,
+      "title": "365 Days: This Day",
+      "release_date": "2022-04-26",
+      "vote_average": 5.92,
+      "popularity": 27.7499,
+      "source": "popular"
+    },
+    {
+      "id": 1359977,
+      "title": "Conjuring the Cult",
+      "release_date": "2024-10-01",
+      "vote_average": 5.658,
+      "popularity": 27.6516,
+      "source": "popular"
+    },
+    {
+      "id": 1548764,
+      "title": "Holy Padel",
+      "release_date": "2025-09-19",
+      "vote_average": 5.5,
+      "popularity": 27.5805,
+      "source": "popular"
+    },
+    {
+      "id": 238,
+      "title": "The Godfather",
+      "release_date": "1972-03-14",
+      "vote_average": 8.686,
+      "popularity": 27.4785,
+      "source": "popular"
+    },
+    {
+      "id": 1388874,
+      "title": "Boss Ma'am",
+      "release_date": "2024-11-26",
+      "vote_average": 7.5,
+      "popularity": 27.473,
+      "source": "popular"
+    },
+    {
+      "id": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "release_date": "2005-12-07",
+      "vote_average": 7.133,
+      "popularity": 27.3619,
+      "source": "popular"
+    },
+    {
+      "id": 19995,
+      "title": "Avatar",
+      "release_date": "2009-12-15",
+      "vote_average": 7.593,
+      "popularity": 27.0592,
+      "source": "popular"
+    },
+    {
+      "id": 1443260,
+      "title": "Rob1n",
+      "release_date": "2025-03-20",
+      "vote_average": 5.244,
+      "popularity": 27.0583,
+      "source": "popular"
+    },
+    {
+      "id": 1294203,
+      "title": "My Fault: London",
+      "release_date": "2025-02-12",
+      "vote_average": 7.486,
+      "popularity": 26.9192,
+      "source": "popular"
+    },
+    {
+      "id": 1300116,
+      "title": "Fall for Me",
+      "release_date": "2025-08-20",
+      "vote_average": 6.194,
+      "popularity": 26.8955,
+      "source": "popular"
+    },
+    {
+      "id": 749170,
+      "title": "Heads of State",
+      "release_date": "2025-06-24",
+      "vote_average": 6.914,
+      "popularity": 26.8164,
+      "source": "popular"
+    },
+    {
+      "id": 870028,
+      "title": "The Accountant²",
+      "release_date": "2025-04-23",
+      "vote_average": 7.147,
+      "popularity": 26.7466,
+      "source": "popular"
+    },
+    {
+      "id": 997892,
+      "title": "The Island of Lost Girls",
+      "release_date": "2024-12-19",
+      "vote_average": 5.2,
+      "popularity": 26.642,
+      "source": "popular"
+    },
+    {
+      "id": 1011985,
+      "title": "Kung Fu Panda 4",
+      "release_date": "2024-03-02",
+      "vote_average": 7.04,
+      "popularity": 26.4338,
+      "source": "popular"
+    },
+    {
+      "id": 1447903,
+      "title": "The Company of Thieves",
+      "release_date": "2025-01-17",
+      "vote_average": 0.0,
+      "popularity": 26.1051,
+      "source": "popular"
+    },
+    {
+      "id": 519182,
+      "title": "Despicable Me 4",
+      "release_date": "2024-06-20",
+      "vote_average": 7.013,
+      "popularity": 25.9171,
+      "source": "popular"
+    },
+    {
+      "id": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "release_date": "2003-12-17",
+      "vote_average": 8.489,
+      "popularity": 25.8456,
+      "source": "popular"
+    },
+    {
+      "id": 100464,
+      "title": "Rape!",
+      "release_date": "1976-02-07",
+      "vote_average": 6.0,
+      "popularity": 25.7826,
+      "source": "popular"
+    },
+    {
+      "id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "release_date": "2021-12-15",
+      "vote_average": 7.939,
+      "popularity": 25.6095,
+      "source": "popular"
+    },
+    {
+      "id": 385687,
+      "title": "Fast X",
+      "release_date": "2023-05-17",
+      "vote_average": 7.025,
+      "popularity": 25.5018,
+      "source": "popular"
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "popularity": 25.3813,
+      "source": "popular"
+    },
+    {
+      "id": 744653,
+      "title": "The Thursday Murder Club",
+      "release_date": "2025-08-22",
+      "vote_average": 6.689,
+      "popularity": 25.2101,
+      "source": "popular"
+    },
+    {
+      "id": 724495,
+      "title": "The Woman King",
+      "release_date": "2022-09-16",
+      "vote_average": 7.648,
+      "popularity": 25.0113,
+      "source": "popular"
+    },
+    {
+      "id": 3933,
+      "title": "Corpse Bride",
+      "release_date": "2005-09-12",
+      "vote_average": 7.582,
+      "popularity": 24.9963,
+      "source": "popular"
+    },
+    {
+      "id": 933260,
+      "title": "The Substance",
+      "release_date": "2024-09-07",
+      "vote_average": 7.153,
+      "popularity": 24.9717,
+      "source": "popular"
+    },
+    {
+      "id": 82023,
+      "title": "Hotel Desire",
+      "release_date": "2011-12-07",
+      "vote_average": 6.153,
+      "popularity": 24.6121,
+      "source": "popular"
+    },
+    {
+      "id": 260513,
+      "title": "Incredibles 2",
+      "release_date": "2018-06-14",
+      "vote_average": 7.455,
+      "popularity": 24.3811,
+      "source": "popular"
+    },
+    {
+      "id": 912649,
+      "title": "Venom: The Last Dance",
+      "release_date": "2024-10-22",
+      "vote_average": 6.7,
+      "popularity": 24.3776,
+      "source": "popular"
+    },
+    {
+      "id": 173705,
+      "title": "Female Teacher: In Front of the Students",
+      "release_date": "1982-04-09",
+      "vote_average": 6.4,
+      "popularity": 24.2289,
+      "source": "popular"
+    },
+    {
+      "id": 822119,
+      "title": "Captain America: Brave New World",
+      "release_date": "2025-02-12",
+      "vote_average": 6.032,
+      "popularity": 24.0403,
+      "source": "popular"
+    },
+    {
+      "id": 1495723,
+      "title": "Abandoned Man",
+      "release_date": "2025-08-22",
+      "vote_average": 7.41,
+      "popularity": 23.7493,
+      "source": "popular"
+    },
+    {
+      "id": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "release_date": "2001-12-18",
+      "vote_average": 8.424,
+      "popularity": 23.604,
+      "source": "popular"
+    },
+    {
+      "id": 613099,
+      "title": "The Legacy of the Bones",
+      "release_date": "2019-12-05",
+      "vote_average": 6.566,
+      "popularity": 23.5331,
+      "source": "popular"
+    },
+    {
+      "id": 713364,
+      "title": "Clown in a Cornfield",
+      "release_date": "2025-05-08",
+      "vote_average": 6.139,
+      "popularity": 23.4099,
+      "source": "popular"
+    },
+    {
+      "id": 1164355,
+      "title": "Lembayung",
+      "release_date": "2024-09-19",
+      "vote_average": 7.2,
+      "popularity": 23.2821,
+      "source": "popular"
+    },
+    {
+      "id": 592695,
+      "title": "Pleasure",
+      "release_date": "2021-10-08",
+      "vote_average": 6.304,
+      "popularity": 23.1124,
+      "source": "popular"
+    },
+    {
+      "id": 862,
+      "title": "Toy Story",
+      "release_date": "1995-11-22",
+      "vote_average": 7.97,
+      "popularity": 23.0583,
+      "source": "popular"
+    },
+    {
+      "id": 1477114,
+      "title": "Sorority",
+      "release_date": "2025-06-20",
+      "vote_average": 6.6,
+      "popularity": 23.0202,
+      "source": "popular"
+    },
+    {
+      "id": 198663,
+      "title": "The Maze Runner",
+      "release_date": "2014-09-10",
+      "vote_average": 7.192,
+      "popularity": 22.9849,
+      "source": "popular"
+    },
+    {
+      "id": 1190586,
+      "title": "Leggings Mania",
+      "release_date": "2023-07-13",
+      "vote_average": 7.3,
+      "popularity": 22.8998,
+      "source": "popular"
+    },
+    {
+      "id": 1285247,
+      "title": "Murder Company",
+      "release_date": "2024-07-05",
+      "vote_average": 6.2,
+      "popularity": 22.8616,
+      "source": "popular"
+    },
+    {
+      "id": 945961,
+      "title": "Alien: Romulus",
+      "release_date": "2024-08-13",
+      "vote_average": 7.177,
+      "popularity": 22.8273,
+      "source": "popular"
+    },
+    {
+      "id": 423502,
+      "title": "My Friend's Mom",
+      "release_date": "2016-10-12",
+      "vote_average": 4.8,
+      "popularity": 22.5564,
+      "source": "popular"
+    },
+    {
+      "id": 216015,
+      "title": "Fifty Shades of Grey",
+      "release_date": "2015-02-11",
+      "vote_average": 5.88,
+      "popularity": 22.4346,
+      "source": "popular"
+    },
+    {
+      "id": 707610,
+      "title": "Bosomy Mom",
+      "release_date": "2020-05-06",
+      "vote_average": 6.2,
+      "popularity": 22.296,
+      "source": "popular"
+    },
+    {
+      "id": 1376434,
+      "title": "Predator: Killer of Killers",
+      "release_date": "2025-06-05",
+      "vote_average": 7.89,
+      "popularity": 22.2102,
+      "source": "popular"
+    },
+    {
+      "id": 1124619,
+      "title": "Bride Hard",
+      "release_date": "2025-06-19",
+      "vote_average": 5.658,
+      "popularity": 22.207,
+      "source": "popular"
+    },
+    {
+      "id": 1215020,
+      "title": "American Sweatshop",
+      "release_date": "2025-09-19",
+      "vote_average": 5.1,
+      "popularity": 22.1278,
+      "source": "popular"
+    },
+    {
+      "id": 597,
+      "title": "Titanic",
+      "release_date": "1997-11-18",
+      "vote_average": 7.906,
+      "popularity": 22.0265,
+      "source": "popular"
+    },
+    {
+      "id": 106646,
+      "title": "The Wolf of Wall Street",
+      "release_date": "2013-12-25",
+      "vote_average": 8.028,
+      "popularity": 21.6883,
+      "source": "popular"
+    },
+    {
+      "id": 1087891,
+      "title": "The Amateur",
+      "release_date": "2025-04-09",
+      "vote_average": 7.0,
+      "popularity": 21.5353,
+      "source": "popular"
+    },
+    {
+      "id": 354912,
+      "title": "Coco",
+      "release_date": "2017-10-27",
+      "vote_average": 8.202,
+      "popularity": 21.2751,
+      "source": "popular"
+    },
+    {
+      "id": 1241634,
+      "title": "Saiyaara",
+      "release_date": "2025-07-18",
+      "vote_average": 6.3,
+      "popularity": 21.2518,
+      "source": "popular"
+    },
+    {
+      "id": 1393382,
+      "title": "Popeye's Revenge",
+      "release_date": "2025-02-12",
+      "vote_average": 5.068,
+      "popularity": 20.8981,
+      "source": "popular"
+    },
+    {
+      "id": 673,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "release_date": "2004-05-31",
+      "vote_average": 8.011,
+      "popularity": 20.8709,
+      "source": "popular"
+    },
+    {
+      "id": 1058537,
+      "title": "Angels Fallen: Warriors of Peace",
+      "release_date": "2024-07-09",
+      "vote_average": 6.088,
+      "popularity": 20.7467,
+      "source": "popular"
+    },
+    {
+      "id": 1241436,
+      "title": "Warfare",
+      "release_date": "2025-04-09",
+      "vote_average": 7.136,
+      "popularity": 20.7076,
+      "source": "popular"
+    },
+    {
+      "id": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "release_date": "2014-12-10",
+      "vote_average": 7.327,
+      "popularity": 20.6673,
+      "source": "popular"
+    },
+    {
+      "id": 845781,
+      "title": "Red One",
+      "release_date": "2024-10-31",
+      "vote_average": 7.046,
+      "popularity": 20.5991,
+      "source": "popular"
+    },
+    {
+      "id": 1289936,
+      "title": "Downton Abbey: The Grand Finale",
+      "release_date": "2025-09-10",
+      "vote_average": 7.863,
+      "popularity": 20.5571,
+      "source": "popular"
+    },
+    {
+      "id": 1227003,
+      "title": "Shadow of God",
+      "release_date": "2025-03-26",
+      "vote_average": 5.729,
+      "popularity": 20.457,
+      "source": "popular"
+    },
+    {
+      "id": 1321624,
+      "title": "731",
+      "release_date": "2025-09-18",
+      "vote_average": 4.0,
+      "popularity": 20.3644,
+      "source": "popular"
+    },
+    {
+      "id": 402431,
+      "title": "Wicked",
+      "release_date": "2024-11-20",
+      "vote_average": 6.932,
+      "popularity": 20.3344,
+      "source": "popular"
+    },
+    {
+      "id": 539972,
+      "title": "Kraven the Hunter",
+      "release_date": "2024-12-11",
+      "vote_average": 6.49,
+      "popularity": 20.2878,
+      "source": "popular"
+    },
+    {
+      "id": 1404864,
+      "title": "Inspector Zende",
+      "release_date": "2025-09-04",
+      "vote_average": 6.375,
+      "popularity": 20.2756,
+      "source": "popular"
+    },
+    {
+      "id": 762509,
+      "title": "Mufasa: The Lion King",
+      "release_date": "2024-12-18",
+      "vote_average": 7.362,
+      "popularity": 20.2493,
+      "source": "popular"
+    },
+    {
+      "id": 14836,
+      "title": "Coraline",
+      "release_date": "2009-02-05",
+      "vote_average": 7.898,
+      "popularity": 20.243,
+      "source": "popular"
+    },
+    {
+      "id": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "release_date": "2003-07-09",
+      "vote_average": 7.814,
+      "popularity": 20.2178,
+      "source": "popular"
+    },
+    {
+      "id": 814662,
+      "title": "Kakushigoto Theatrical Edition",
+      "release_date": "2021-07-09",
+      "vote_average": 7.1,
+      "popularity": 20.0566,
+      "source": "popular"
+    },
+    {
+      "id": 50270,
+      "title": "Paprika",
+      "release_date": "1991-02-13",
+      "vote_average": 7.142,
+      "popularity": 20.0495,
+      "source": "popular"
+    },
+    {
+      "id": 1428213,
+      "title": "Kontrabida Academy",
+      "release_date": "2025-09-10",
+      "vote_average": 7.1,
+      "popularity": 20.0303,
+      "source": "popular"
+    },
+    {
+      "id": 1184918,
+      "title": "The Wild Robot",
+      "release_date": "2024-09-12",
+      "vote_average": 8.317,
+      "popularity": 20.0216,
+      "source": "popular"
+    },
+    {
+      "id": 359410,
+      "title": "Road House",
+      "release_date": "2024-03-08",
+      "vote_average": 6.944,
+      "popularity": 19.976,
+      "source": "popular"
+    },
+    {
+      "id": 674,
+      "title": "Harry Potter and the Goblet of Fire",
+      "release_date": "2005-11-16",
+      "vote_average": 7.8,
+      "popularity": 19.9478,
+      "source": "popular"
+    },
+    {
+      "id": 650498,
+      "title": "Twittering Birds Never Fly: The Clouds Gather",
+      "release_date": "2020-02-27",
+      "vote_average": 6.8,
+      "popularity": 19.8428,
+      "source": "popular"
+    },
+    {
+      "id": 1252309,
+      "title": "Tell Me What You Want",
+      "release_date": "2024-11-29",
+      "vote_average": 6.2,
+      "popularity": 19.778,
+      "source": "popular"
+    },
+    {
+      "id": 569094,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "release_date": "2023-05-31",
+      "vote_average": 8.34,
+      "popularity": 19.7693,
+      "source": "popular"
+    },
+    {
+      "id": 541339,
+      "title": "The Good Girls",
+      "release_date": "2019-03-22",
+      "vote_average": 6.526,
+      "popularity": 19.7531,
+      "source": "popular"
+    },
+    {
+      "id": 672,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "release_date": "2002-11-13",
+      "vote_average": 7.705,
+      "popularity": 19.7148,
+      "source": "popular"
+    },
+    {
+      "id": 129,
+      "title": "Spirited Away",
+      "release_date": "2001-07-20",
+      "vote_average": 8.5,
+      "popularity": 19.6174,
+      "source": "popular"
+    },
+    {
+      "id": 842931,
+      "title": "Sacramento",
+      "release_date": "2025-04-11",
+      "vote_average": 6.3,
+      "popularity": 19.5792,
+      "source": "popular"
+    },
+    {
+      "id": 715253,
+      "title": "Phantom",
+      "release_date": "2023-01-18",
+      "vote_average": 6.95,
+      "popularity": 19.5579,
+      "source": "popular"
+    },
+    {
+      "id": 384527,
+      "title": "Dolce... calda Lisa",
+      "release_date": "1980-03-28",
+      "vote_average": 4.8,
+      "popularity": 19.5137,
+      "source": "popular"
+    },
+    {
+      "id": 22705,
+      "title": "Cheeky",
+      "release_date": "2000-01-28",
+      "vote_average": 5.6,
+      "popularity": 19.5113,
+      "source": "popular"
+    },
+    {
+      "id": 436969,
+      "title": "The Suicide Squad",
+      "release_date": "2021-06-06",
+      "vote_average": 7.483,
+      "popularity": 19.4701,
+      "source": "popular"
+    },
+    {
+      "id": 335984,
+      "title": "Blade Runner 2049",
+      "release_date": "2017-10-04",
+      "vote_average": 7.587,
+      "popularity": 19.2963,
+      "source": "popular"
+    },
+    {
+      "id": 348084,
+      "title": "Beasts Cage",
+      "release_date": "2008-02-29",
+      "vote_average": 5.0,
+      "popularity": 19.2957,
+      "source": "popular"
+    },
+    {
+      "id": 808,
+      "title": "Shrek",
+      "release_date": "2001-05-18",
+      "vote_average": 7.752,
+      "popularity": 19.1928,
+      "source": "popular"
+    },
+    {
+      "id": 820232,
+      "title": "Demon Slayer: Kimetsu no Yaiba — Sibling's Bond",
+      "release_date": "2019-03-29",
+      "vote_average": 7.914,
+      "popularity": 19.0881,
+      "source": "popular"
+    },
+    {
+      "id": 414906,
+      "title": "The Batman",
+      "release_date": "2022-03-01",
+      "vote_average": 7.658,
+      "popularity": 19.0208,
+      "source": "popular"
+    },
+    {
+      "id": 1149504,
+      "title": "Honey Don't!",
+      "release_date": "2025-08-21",
+      "vote_average": 5.8,
+      "popularity": 18.9892,
+      "source": "popular"
+    },
+    {
+      "id": 557,
+      "title": "Spider-Man",
+      "release_date": "2002-05-01",
+      "vote_average": 7.316,
+      "popularity": 18.9867,
+      "source": "popular"
+    },
+    {
+      "id": 8966,
+      "title": "Twilight",
+      "release_date": "2008-11-20",
+      "vote_average": 6.288,
+      "popularity": 18.974,
+      "source": "popular"
+    },
+    {
+      "id": 496243,
+      "title": "Parasite",
+      "release_date": "2019-05-30",
+      "vote_average": 8.497,
+      "popularity": 18.869,
+      "source": "popular"
+    },
+    {
+      "id": 1280461,
+      "title": "Dirty Ice Cream",
+      "release_date": "2024-05-10",
+      "vote_average": 5.2,
+      "popularity": 18.7157,
+      "source": "popular"
+    },
+    {
+      "id": 605722,
+      "title": "Long Distance",
+      "release_date": "2024-07-12",
+      "vote_average": 6.51,
+      "popularity": 18.709,
+      "source": "popular"
+    },
+    {
+      "id": 603692,
+      "title": "John Wick: Chapter 4",
+      "release_date": "2023-03-22",
+      "vote_average": 7.721,
+      "popularity": 18.576,
+      "source": "popular"
+    },
+    {
+      "id": 767,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "release_date": "2009-07-15",
+      "vote_average": 7.682,
+      "popularity": 18.5378,
+      "source": "popular"
+    },
+    {
+      "id": 12444,
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "release_date": "2010-11-17",
+      "vote_average": 7.738,
+      "popularity": 18.5339,
+      "source": "popular"
+    },
+    {
+      "id": 429617,
+      "title": "Spider-Man: Far From Home",
+      "release_date": "2019-06-28",
+      "vote_average": 7.402,
+      "popularity": 18.5269,
+      "source": "popular"
+    },
+    {
+      "id": 846422,
+      "title": "The Old Guard 2",
+      "release_date": "2025-07-01",
+      "vote_average": 6.0,
+      "popularity": 18.3642,
+      "source": "popular"
+    },
+    {
+      "id": 75432,
+      "title": "Sweet Sex and Love",
+      "release_date": "2003-06-27",
+      "vote_average": 6.0,
+      "popularity": 18.3231,
+      "source": "popular"
+    },
+    {
+      "id": 292610,
+      "title": "Ladies' Doctor",
+      "release_date": "1977-09-13",
+      "vote_average": 4.5,
+      "popularity": 18.3193,
+      "source": "popular"
+    },
+    {
+      "id": 1315986,
+      "title": "Man with No Past",
+      "release_date": "2025-01-13",
+      "vote_average": 6.56,
+      "popularity": 18.318,
+      "source": "popular"
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "popularity": 18.3075,
+      "source": "popular"
+    },
+    {
+      "id": 109445,
+      "title": "Frozen",
+      "release_date": "2013-11-20",
+      "vote_average": 7.248,
+      "popularity": 18.2846,
+      "source": "popular"
+    },
+    {
+      "id": 928833,
+      "title": "Craig Before the Creek",
+      "release_date": "2023-12-11",
+      "vote_average": 7.8,
+      "popularity": 18.2688,
+      "source": "popular"
+    },
+    {
+      "id": 1084199,
+      "title": "Companion",
+      "release_date": "2025-01-22",
+      "vote_average": 7.1,
+      "popularity": 18.255,
+      "source": "popular"
+    },
+    {
+      "id": 603,
+      "title": "The Matrix",
+      "release_date": "1999-03-31",
+      "vote_average": 8.232,
+      "popularity": 18.1917,
+      "source": "popular"
+    },
+    {
+      "id": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "release_date": "2006-07-06",
+      "vote_average": 7.371,
+      "popularity": 18.1778,
+      "source": "popular"
+    },
+    {
+      "id": 1471345,
+      "title": "Homo Argentum",
+      "release_date": "2025-08-14",
+      "vote_average": 5.4,
+      "popularity": 18.1766,
+      "source": "popular"
+    },
+    {
+      "id": 890138,
+      "title": "A.R.M",
+      "release_date": "2024-09-12",
+      "vote_average": 7.0,
+      "popularity": 18.0096,
+      "source": "popular"
+    },
+    {
+      "id": 1374534,
+      "title": "Almost Cops",
+      "release_date": "2025-07-10",
+      "vote_average": 5.911,
+      "popularity": 17.997,
+      "source": "popular"
+    },
+    {
+      "id": 372058,
+      "title": "Your Name.",
+      "release_date": "2016-08-26",
+      "vote_average": 8.479,
+      "popularity": 17.9754,
+      "source": "popular"
+    },
+    {
+      "id": 1107215,
+      "title": "Once Upon My Mother",
+      "release_date": "2025-03-19",
+      "vote_average": 6.957,
+      "popularity": 17.9725,
+      "source": "popular"
+    },
+    {
+      "id": 758923,
+      "title": "Baaghi 4",
+      "release_date": "2025-09-05",
+      "vote_average": 5.571,
+      "popularity": 17.9191,
+      "source": "popular"
+    },
+    {
+      "id": 1426776,
+      "title": "STRAW",
+      "release_date": "2025-06-05",
+      "vote_average": 7.864,
+      "popularity": 17.9145,
+      "source": "popular"
+    },
+    {
+      "id": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "release_date": "2002-12-18",
+      "vote_average": 8.4,
+      "popularity": 17.8899,
+      "source": "popular"
+    },
+    {
+      "id": 177572,
+      "title": "Big Hero 6",
+      "release_date": "2014-10-24",
+      "vote_average": 7.727,
+      "popularity": 17.8794,
+      "source": "popular"
+    },
+    {
+      "id": 18785,
+      "title": "The Hangover",
+      "release_date": "2009-06-02",
+      "vote_average": 7.327,
+      "popularity": 17.8134,
+      "source": "popular"
+    },
+    {
+      "id": 1515395,
+      "title": "Lego Disney Princess: Villains Unite",
+      "release_date": "2025-08-24",
+      "vote_average": 8.083,
+      "popularity": 17.7927,
+      "source": "popular"
+    },
+    {
+      "id": 807,
+      "title": "Se7en",
+      "release_date": "1995-09-22",
+      "vote_average": 8.377,
+      "popularity": 17.7509,
+      "source": "popular"
+    },
+    {
+      "id": 565599,
+      "title": "A Christmas for the Books",
+      "release_date": "2018-12-11",
+      "vote_average": 5.3,
+      "popularity": 17.7004,
+      "source": "popular"
+    },
+    {
+      "id": 694943,
+      "title": "Pizza Dare 1",
+      "release_date": "2020-04-10",
+      "vote_average": 6.6,
+      "popularity": 17.613,
+      "source": "popular"
+    },
+    {
+      "id": 16869,
+      "title": "Inglourious Basterds",
+      "release_date": "2009-08-02",
+      "vote_average": 8.215,
+      "popularity": 17.5855,
+      "source": "popular"
+    },
+    {
+      "id": 49266,
+      "title": "Sand Serpents",
+      "release_date": "2009-07-11",
+      "vote_average": 4.0,
+      "popularity": 17.5495,
+      "source": "popular"
+    },
+    {
+      "id": 872585,
+      "title": "Oppenheimer",
+      "release_date": "2023-07-19",
+      "vote_average": 8.05,
+      "popularity": 17.5321,
+      "source": "popular"
+    },
+    {
+      "id": 982843,
+      "title": "The Great Flood",
+      "release_date": "2025-09-18",
+      "vote_average": 10.0,
+      "popularity": 17.518,
+      "source": "popular"
+    },
+    {
+      "id": 337167,
+      "title": "Fifty Shades Freed",
+      "release_date": "2018-01-17",
+      "vote_average": 6.687,
+      "popularity": 17.489,
+      "source": "popular"
+    },
+    {
+      "id": 324544,
+      "title": "In the Lost Lands",
+      "release_date": "2025-02-27",
+      "vote_average": 6.42,
+      "popularity": 17.483,
+      "source": "popular"
+    },
+    {
+      "id": 361743,
+      "title": "Top Gun: Maverick",
+      "release_date": "2022-05-21",
+      "vote_average": 8.168,
+      "popularity": 17.3804,
+      "source": "popular"
+    },
+    {
+      "id": 680,
+      "title": "Pulp Fiction",
+      "release_date": "1994-09-10",
+      "vote_average": 8.487,
+      "popularity": 17.3226,
+      "source": "popular"
+    },
+    {
+      "id": 3036,
+      "title": "Mary Shelley's Frankenstein",
+      "release_date": "1994-11-04",
+      "vote_average": 6.442,
+      "popularity": 17.3059,
+      "source": "popular"
+    },
+    {
+      "id": 78080,
+      "title": "Beethoven's Christmas Adventure",
+      "release_date": "2011-11-07",
+      "vote_average": 5.9,
+      "popularity": 17.2834,
+      "source": "popular"
+    },
+    {
+      "id": 537915,
+      "title": "After",
+      "release_date": "2019-04-11",
+      "vote_average": 7.116,
+      "popularity": 17.2139,
+      "source": "popular"
+    },
+    {
+      "id": 49026,
+      "title": "The Dark Knight Rises",
+      "release_date": "2012-07-17",
+      "vote_average": 7.787,
+      "popularity": 17.1291,
+      "source": "popular"
+    },
+    {
+      "id": 223319,
+      "title": "Lucky Sky Diamond",
+      "release_date": "1989-03-11",
+      "vote_average": 3.6,
+      "popularity": 17.1165,
+      "source": "popular"
+    },
+    {
+      "id": 507244,
+      "title": "Afterburn",
+      "release_date": "2025-08-20",
+      "vote_average": 4.917,
+      "popularity": 17.0971,
+      "source": "popular"
+    },
+    {
+      "id": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "release_date": "2023-07-08",
+      "vote_average": 7.52,
+      "popularity": 17.058,
+      "source": "popular"
+    },
+    {
+      "id": 150540,
+      "title": "Inside Out",
+      "release_date": "2015-06-17",
+      "vote_average": 7.91,
+      "popularity": 17.046,
+      "source": "popular"
+    },
+    {
+      "id": 10138,
+      "title": "Iron Man 2",
+      "release_date": "2010-04-28",
+      "vote_average": 6.848,
+      "popularity": 17.0378,
+      "source": "popular"
+    },
+    {
+      "id": 348,
+      "title": "Alien",
+      "release_date": "1979-05-25",
+      "vote_average": 8.165,
+      "popularity": 17.0309,
+      "source": "popular"
+    },
+    {
+      "id": 1865,
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "release_date": "2011-05-15",
+      "vote_average": 6.562,
+      "popularity": 17.0212,
+      "source": "popular"
+    },
+    {
+      "id": 1064307,
+      "title": "Spermageddon",
+      "release_date": "2025-02-21",
+      "vote_average": 6.7,
+      "popularity": 17.0092,
+      "source": "popular"
+    },
+    {
+      "id": 860410,
+      "title": "Asebamu Akahadaka Tsuma",
+      "release_date": "2017-01-01",
+      "vote_average": 10.0,
+      "popularity": 16.9933,
+      "source": "popular"
+    },
+    {
+      "id": 2062,
+      "title": "Ratatouille",
+      "release_date": "2007-06-28",
+      "vote_average": 7.832,
+      "popularity": 16.9761,
+      "source": "popular"
+    },
+    {
+      "id": 1064213,
+      "title": "Anora",
+      "release_date": "2024-10-14",
+      "vote_average": 7.051,
+      "popularity": 16.8973,
+      "source": "popular"
+    },
+    {
+      "id": 1307078,
+      "title": "My Oxford Year",
+      "release_date": "2025-07-31",
+      "vote_average": 7.087,
+      "popularity": 16.8832,
+      "source": "popular"
+    },
+    {
+      "id": 9738,
+      "title": "Fantastic Four",
+      "release_date": "2005-06-29",
+      "vote_average": 5.799,
+      "popularity": 16.8616,
+      "source": "popular"
+    },
+    {
+      "id": 1072790,
+      "title": "Anyone But You",
+      "release_date": "2023-12-21",
+      "vote_average": 6.839,
+      "popularity": 16.7958,
+      "source": "popular"
+    },
+    {
+      "id": 1263256,
+      "title": "Happy Gilmore 2",
+      "release_date": "2025-07-25",
+      "vote_average": 6.649,
+      "popularity": 16.7757,
+      "source": "popular"
+    },
+    {
+      "id": 1246369,
+      "title": "Samurai Fury",
+      "release_date": "2025-01-17",
+      "vote_average": 8.769,
+      "popularity": 16.7512,
+      "source": "popular"
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "release_date": "1994-06-23",
+      "vote_average": 8.466,
+      "popularity": 16.7205,
+      "source": "popular"
+    },
+    {
+      "id": 1257009,
+      "title": "Primitive War",
+      "release_date": "2025-08-21",
+      "vote_average": 7.2,
+      "popularity": 16.6684,
+      "source": "popular"
+    },
+    {
+      "id": 558449,
+      "title": "Gladiator II",
+      "release_date": "2024-11-13",
+      "vote_average": 6.664,
+      "popularity": 16.6574,
+      "source": "popular"
+    },
+    {
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "popularity": 16.6487,
+      "source": "popular"
+    },
+    {
+      "id": 1082424,
+      "title": "Jane Austen Wrecked My Life",
+      "release_date": "2025-01-22",
+      "vote_average": 6.6,
+      "popularity": 16.6416,
+      "source": "popular"
+    },
+    {
+      "id": 1024452,
+      "title": "French Girl",
+      "release_date": "2024-03-15",
+      "vote_average": 6.3,
+      "popularity": 16.6235,
+      "source": "popular"
+    },
+    {
+      "id": 1017163,
+      "title": "The Roundup: Punishment",
+      "release_date": "2024-04-24",
+      "vote_average": 7.077,
+      "popularity": 16.6196,
+      "source": "popular"
+    },
+    {
+      "id": 527465,
+      "title": "Moromete Family: On the Edge of Time",
+      "release_date": "2018-11-16",
+      "vote_average": 6.6,
+      "popularity": 16.6055,
+      "source": "popular"
+    },
+    {
+      "id": 438631,
+      "title": "Dune",
+      "release_date": "2021-09-15",
+      "vote_average": 7.779,
+      "popularity": 16.5996,
+      "source": "popular"
+    },
+    {
+      "id": 352491,
+      "title": "Hollow in the Land",
+      "release_date": "2017-12-08",
+      "vote_average": 5.4,
+      "popularity": 16.5971,
+      "source": "popular"
+    },
+    {
+      "id": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "release_date": "2018-12-06",
+      "vote_average": 8.397,
+      "popularity": 16.5349,
+      "source": "popular"
+    },
+    {
+      "id": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "release_date": "2023-04-05",
+      "vote_average": 7.607,
+      "popularity": 16.5191,
+      "source": "popular"
+    },
+    {
+      "id": 370663,
+      "title": "Below Her Mouth",
+      "release_date": "2017-02-10",
+      "vote_average": 6.796,
+      "popularity": 16.5054,
+      "source": "popular"
+    },
+    {
+      "id": 170,
+      "title": "28 Days Later",
+      "release_date": "2002-10-31",
+      "vote_average": 7.235,
+      "popularity": 16.4939,
+      "source": "popular"
+    },
+    {
+      "id": 1471014,
+      "title": "Van Gogh by Vincent",
+      "release_date": "2025-03-26",
+      "vote_average": 6.2,
+      "popularity": 16.4805,
+      "source": "popular"
+    },
+    {
+      "id": 315635,
+      "title": "Spider-Man: Homecoming",
+      "release_date": "2017-07-05",
+      "vote_average": 7.33,
+      "popularity": 16.4427,
+      "source": "popular"
+    },
+    {
+      "id": 490132,
+      "title": "Green Book",
+      "release_date": "2018-11-16",
+      "vote_average": 8.227,
+      "popularity": 16.4219,
+      "source": "popular"
+    },
+    {
+      "id": 629542,
+      "title": "The Bad Guys",
+      "release_date": "2022-03-17",
+      "vote_average": 7.533,
+      "popularity": 16.4165,
+      "source": "popular"
+    },
+    {
+      "id": 12445,
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "release_date": "2011-07-12",
+      "vote_average": 8.083,
+      "popularity": 16.391,
+      "source": "popular"
+    },
+    {
+      "id": 1380405,
+      "title": "The Chosen: Last Supper",
+      "release_date": "2025-03-27",
+      "vote_average": 7.9,
+      "popularity": 16.383,
+      "source": "popular"
+    },
+    {
+      "id": 346698,
+      "title": "Barbie",
+      "release_date": "2023-07-19",
+      "vote_average": 6.955,
+      "popularity": 16.3442,
+      "source": "popular"
+    },
+    {
+      "id": 1447917,
+      "title": "Rapsa",
+      "release_date": "2025-05-02",
+      "vote_average": 7.0,
+      "popularity": 16.3195,
+      "source": "popular"
+    },
+    {
+      "id": 447273,
+      "title": "Snow White",
+      "release_date": "2025-03-12",
+      "vote_average": 4.304,
+      "popularity": 16.2825,
+      "source": "popular"
+    },
+    {
+      "id": 1270064,
+      "title": "Baby, I'll Eat Well",
+      "release_date": "2023-09-07",
+      "vote_average": 0.0,
+      "popularity": 16.2665,
+      "source": "popular"
+    },
+    {
+      "id": 675,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "release_date": "2007-07-08",
+      "vote_average": 7.673,
+      "popularity": 16.192,
+      "source": "popular"
+    },
+    {
+      "id": 286217,
+      "title": "The Martian",
+      "release_date": "2015-09-30",
+      "vote_average": 7.7,
+      "popularity": 16.1315,
+      "source": "popular"
+    },
+    {
+      "id": 585,
+      "title": "Monsters, Inc.",
+      "release_date": "2001-11-01",
+      "vote_average": 7.846,
+      "popularity": 16.121,
+      "source": "popular"
+    },
+    {
+      "id": 95342,
+      "title": "Love for Sale",
+      "release_date": "2006-11-17",
+      "vote_average": 7.5,
+      "popularity": 16.0861,
+      "source": "popular"
+    },
+    {
+      "id": 843527,
+      "title": "The Idea of You",
+      "release_date": "2024-05-02",
+      "vote_average": 7.3,
+      "popularity": 16.0591,
+      "source": "popular"
+    },
+    {
+      "id": 299534,
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-24",
+      "vote_average": 8.2,
+      "popularity": 16.039,
+      "source": "popular"
+    },
+    {
+      "id": 12685,
+      "title": "BloodRayne: The Third Reich",
+      "release_date": "2010-06-10",
+      "vote_average": 3.816,
+      "popularity": 15.9717,
+      "source": "popular"
+    },
+    {
+      "id": 801335,
+      "title": "Girl in the Basement",
+      "release_date": "2021-02-27",
+      "vote_average": 7.606,
+      "popularity": 15.9601,
+      "source": "popular"
+    },
+    {
+      "id": 146233,
+      "title": "Prisoners",
+      "release_date": "2013-09-19",
+      "vote_average": 8.099,
+      "popularity": 15.9472,
+      "source": "popular"
+    },
+    {
+      "id": 1103705,
+      "title": "Jean-Claude van Damme: Karate King",
+      "release_date": "2023-03-17",
+      "vote_average": 7.179,
+      "popularity": 15.9031,
+      "source": "popular"
+    },
+    {
+      "id": 71945,
+      "title": "Night of Dark Shadows",
+      "release_date": "1971-08-04",
+      "vote_average": 6.5,
+      "popularity": 15.8851,
+      "source": "popular"
+    },
+    {
+      "id": 497,
+      "title": "The Green Mile",
+      "release_date": "1999-12-10",
+      "vote_average": 8.503,
+      "popularity": 15.863,
+      "source": "popular"
+    },
+    {
+      "id": 70575,
+      "title": "Children of the Corn: Genesis",
+      "release_date": "2011-08-30",
+      "vote_average": 4.06,
+      "popularity": 15.8517,
+      "source": "popular"
+    },
+    {
+      "id": 1339166,
+      "title": "Shaman",
+      "release_date": "2025-07-16",
+      "vote_average": 5.7,
+      "popularity": 15.8486,
+      "source": "popular"
+    },
+    {
+      "id": 1414272,
+      "title": "Belyas",
+      "release_date": "2025-02-07",
+      "vote_average": 7.5,
+      "popularity": 15.7856,
+      "source": "popular"
+    },
+    {
+      "id": 290098,
+      "title": "The Handmaiden",
+      "release_date": "2016-06-01",
+      "vote_average": 8.199,
+      "popularity": 15.7704,
+      "source": "popular"
+    },
+    {
+      "id": 351523,
+      "title": "Purpose of Reunion",
+      "release_date": "2015-08-06",
+      "vote_average": 6.4,
+      "popularity": 15.7398,
+      "source": "popular"
+    },
+    {
+      "id": 24021,
+      "title": "The Twilight Saga: Eclipse",
+      "release_date": "2010-06-23",
+      "vote_average": 6.203,
+      "popularity": 15.739,
+      "source": "popular"
+    },
+    {
+      "id": 637649,
+      "title": "Wrath of Man",
+      "release_date": "2021-04-22",
+      "vote_average": 7.6,
+      "popularity": 15.728,
+      "source": "popular"
+    },
+    {
+      "id": 207,
+      "title": "Dead Poets Society",
+      "release_date": "1989-06-02",
+      "vote_average": 8.301,
+      "popularity": 15.726,
+      "source": "popular"
+    },
+    {
+      "id": 82702,
+      "title": "How to Train Your Dragon 2",
+      "release_date": "2014-06-05",
+      "vote_average": 7.675,
+      "popularity": 15.715,
+      "source": "popular"
+    },
+    {
+      "id": 228150,
+      "title": "Fury",
+      "release_date": "2014-10-15",
+      "vote_average": 7.54,
+      "popularity": 15.7019,
+      "source": "popular"
+    },
+    {
+      "id": 693134,
+      "title": "Dune: Part Two",
+      "release_date": "2024-02-27",
+      "vote_average": 8.135,
+      "popularity": 15.6573,
+      "source": "popular"
+    },
+    {
+      "id": 439079,
+      "title": "The Nun",
+      "release_date": "2018-09-05",
+      "vote_average": 5.9,
+      "popularity": 15.5976,
+      "source": "popular"
+    },
+    {
+      "id": 11,
+      "title": "Star Wars",
+      "release_date": "1977-05-25",
+      "vote_average": 8.2,
+      "popularity": 15.575,
+      "source": "popular"
+    },
+    {
+      "id": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "release_date": "2024-06-05",
+      "vote_average": 7.362,
+      "popularity": 15.5554,
+      "source": "popular"
+    },
+    {
+      "id": 1545953,
+      "title": "Mayumi",
+      "release_date": "2025-09-26",
+      "vote_average": 7.0,
+      "popularity": 15.5511,
+      "source": "popular"
+    },
+    {
+      "id": 387824,
+      "title": "Mom's Friend",
+      "release_date": "2015-08-20",
+      "vote_average": 7.0,
+      "popularity": 15.5393,
+      "source": "popular"
+    },
+    {
+      "id": 273477,
+      "title": "Scouts Guide to the Zombie Apocalypse",
+      "release_date": "2015-10-23",
+      "vote_average": 6.545,
+      "popularity": 15.5178,
+      "source": "popular"
+    },
+    {
+      "id": 80741,
+      "title": "Initial D: Third Stage",
+      "release_date": "2001-01-13",
+      "vote_average": 6.9,
+      "popularity": 15.5176,
+      "source": "popular"
+    },
+    {
+      "id": 270946,
+      "title": "Penguins of Madagascar",
+      "release_date": "2014-11-22",
+      "vote_average": 6.53,
+      "popularity": 15.511,
+      "source": "popular"
+    },
+    {
+      "id": 64586,
+      "title": "Sleeping Beauty",
+      "release_date": "2011-06-10",
+      "vote_average": 5.4,
+      "popularity": 15.4987,
+      "source": "popular"
+    },
+    {
+      "id": 1290182,
+      "title": "You Are the Apple of My Eye",
+      "release_date": "2025-02-21",
+      "vote_average": 8.6,
+      "popularity": 15.4562,
+      "source": "popular"
+    },
+    {
+      "id": 269149,
+      "title": "Zootopia",
+      "release_date": "2016-02-11",
+      "vote_average": 7.751,
+      "popularity": 15.4551,
+      "source": "popular"
+    },
+    {
+      "id": 30043,
+      "title": "Green Chair",
+      "release_date": "2005-06-10",
+      "vote_average": 6.2,
+      "popularity": 15.4165,
+      "source": "popular"
+    },
+    {
+      "id": 1034541,
+      "title": "Terrifier 3",
+      "release_date": "2024-10-09",
+      "vote_average": 6.831,
+      "popularity": 15.3917,
+      "source": "popular"
+    },
+    {
+      "id": 46466,
+      "title": "The Children of the Century",
+      "release_date": "1999-09-12",
+      "vote_average": 5.9,
+      "popularity": 15.3707,
+      "source": "popular"
+    },
+    {
+      "id": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "release_date": "2007-05-19",
+      "vote_average": 7.3,
+      "popularity": 15.3163,
+      "source": "popular"
+    },
+    {
+      "id": 686976,
+      "title": "A Song Called Hate",
+      "release_date": "2021-06-17",
+      "vote_average": 9.0,
+      "popularity": 15.3089,
+      "source": "popular"
+    },
+    {
+      "id": 863,
+      "title": "Toy Story 2",
+      "release_date": "1999-10-30",
+      "vote_average": 7.603,
+      "popularity": 15.2939,
+      "source": "popular"
+    },
+    {
+      "id": 38757,
+      "title": "Tangled",
+      "release_date": "2010-11-24",
+      "vote_average": 7.611,
+      "popularity": 15.2811,
+      "source": "popular"
+    },
+    {
+      "id": 800378,
+      "title": "Chikan Densha: OL Kando Kurabe",
+      "release_date": "1991-06-21",
+      "vote_average": 5.5,
+      "popularity": 15.2569,
+      "source": "popular"
+    },
+    {
+      "id": 823219,
+      "title": "Flow",
+      "release_date": "2024-08-29",
+      "vote_average": 8.145,
+      "popularity": 15.2459,
+      "source": "popular"
+    },
+    {
+      "id": 616037,
+      "title": "Thor: Love and Thunder",
+      "release_date": "2022-07-06",
+      "vote_average": 6.396,
+      "popularity": 15.2131,
+      "source": "popular"
+    },
+    {
+      "id": 372049,
+      "title": "My Friend's Wife",
+      "release_date": "2015-12-03",
+      "vote_average": 6.8,
+      "popularity": 15.1871,
+      "source": "popular"
+    },
+    {
+      "id": 1225572,
+      "title": "Screamboat",
+      "release_date": "2025-03-20",
+      "vote_average": 5.152,
+      "popularity": 15.187,
+      "source": "popular"
+    },
+    {
+      "id": 899382,
+      "title": "Christmas Is Canceled",
+      "release_date": "2021-12-23",
+      "vote_average": 5.457,
+      "popularity": 15.1672,
+      "source": "popular"
+    },
+    {
+      "id": 501989,
+      "title": "Ode to Joy",
+      "release_date": "2019-09-08",
+      "vote_average": 6.2,
+      "popularity": 15.1652,
+      "source": "popular"
+    },
+    {
+      "id": 866398,
+      "title": "The Beekeeper",
+      "release_date": "2024-01-08",
+      "vote_average": 7.285,
+      "popularity": 15.0981,
+      "source": "popular"
+    },
+    {
+      "id": 486593,
+      "title": "Women's War: Doggie's Uprising",
+      "release_date": "2016-03-24",
+      "vote_average": 0.0,
+      "popularity": 15.0896,
+      "source": "popular"
+    },
+    {
+      "id": 17880,
+      "title": "Because of Winn-Dixie",
+      "release_date": "2005-02-18",
+      "vote_average": 6.4,
+      "popularity": 15.083,
+      "source": "popular"
+    },
+    {
+      "id": 860271,
+      "title": "Signed, Sealed, Delivered: The Vows We Have Made",
+      "release_date": "2021-10-17",
+      "vote_average": 7.0,
+      "popularity": 15.0796,
+      "source": "popular"
+    },
+    {
+      "id": 47525,
+      "title": "The Magic of Ordinary Days",
+      "release_date": "2005-01-30",
+      "vote_average": 7.4,
+      "popularity": 15.0617,
+      "source": "popular"
+    },
+    {
+      "id": 14160,
+      "title": "Up",
+      "release_date": "2009-05-28",
+      "vote_average": 7.959,
+      "popularity": 15.0514,
+      "source": "popular"
+    },
+    {
+      "id": 297762,
+      "title": "Wonder Woman",
+      "release_date": "2017-05-30",
+      "vote_average": 7.214,
+      "popularity": 15.0374,
+      "source": "popular"
+    },
+    {
+      "id": 829560,
+      "title": "The Next 365 Days",
+      "release_date": "2022-08-18",
+      "vote_average": 6.388,
+      "popularity": 15.0311,
+      "source": "popular"
+    },
+    {
+      "id": 99861,
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-04-22",
+      "vote_average": 7.3,
+      "popularity": 15.0228,
+      "source": "popular"
+    },
+    {
+      "id": 842924,
+      "title": "The Life of Chuck",
+      "release_date": "2025-06-05",
+      "vote_average": 7.379,
+      "popularity": 14.9928,
+      "source": "popular"
+    },
+    {
+      "id": 150689,
+      "title": "Cinderella",
+      "release_date": "2015-03-06",
+      "vote_average": 6.826,
+      "popularity": 14.9735,
+      "source": "popular"
+    },
+    {
+      "id": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "release_date": "2012-12-12",
+      "vote_average": 7.362,
+      "popularity": 14.9644,
+      "source": "popular"
+    },
+    {
+      "id": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "release_date": "2024-03-27",
+      "vote_average": 7.085,
+      "popularity": 14.9142,
+      "source": "popular"
+    },
+    {
+      "id": 1232546,
+      "title": "Until Dawn",
+      "release_date": "2025-04-23",
+      "vote_average": 6.5,
+      "popularity": 14.8925,
+      "source": "popular"
+    },
+    {
+      "id": 1181540,
+      "title": "Guns Up",
+      "release_date": "2025-05-15",
+      "vote_average": 6.639,
+      "popularity": 14.8924,
+      "source": "popular"
+    },
+    {
+      "id": 335,
+      "title": "Once Upon a Time in the West",
+      "release_date": "1968-12-21",
+      "vote_average": 8.282,
+      "popularity": 14.8896,
+      "source": "popular"
+    },
+    {
+      "id": 49963,
+      "title": "Walking and Talking",
+      "release_date": "1996-07-17",
+      "vote_average": 6.1,
+      "popularity": 14.8607,
+      "source": "popular"
+    },
+    {
+      "id": 137113,
+      "title": "Edge of Tomorrow",
+      "release_date": "2014-05-27",
+      "vote_average": 7.632,
+      "popularity": 14.8438,
+      "source": "popular"
+    },
+    {
+      "id": 209112,
+      "title": "Batman v Superman: Dawn of Justice",
+      "release_date": "2016-03-23",
+      "vote_average": 6.0,
+      "popularity": 14.819,
+      "source": "popular"
+    },
+    {
+      "id": 253952,
+      "title": "The Adolescents",
+      "release_date": "1975-09-09",
+      "vote_average": 5.8,
+      "popularity": 14.8003,
+      "source": "popular"
+    },
+    {
+      "id": 1537780,
+      "title": "Instintos",
+      "release_date": "2025-08-29",
+      "vote_average": 7.304,
+      "popularity": 14.7941,
+      "source": "popular"
+    },
+    {
+      "id": 637415,
+      "title": "Enhanced",
+      "release_date": "2019-10-24",
+      "vote_average": 5.5,
+      "popularity": 14.7705,
+      "source": "popular"
+    },
+    {
+      "id": 1190511,
+      "title": "Sitaare Zameen Par",
+      "release_date": "2025-06-20",
+      "vote_average": 7.6,
+      "popularity": 14.7571,
+      "source": "popular"
+    },
+    {
+      "id": 20227,
+      "title": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
+      "release_date": "1992-10-02",
+      "vote_average": 8.6,
+      "popularity": 14.7568,
+      "source": "popular"
+    },
+    {
+      "id": 652,
+      "title": "Troy",
+      "release_date": "2004-05-13",
+      "vote_average": 7.165,
+      "popularity": 14.756,
+      "source": "popular"
+    },
+    {
+      "id": 14105,
+      "title": "Already Dead",
+      "release_date": "2007-12-11",
+      "vote_average": 5.5,
+      "popularity": 14.7253,
+      "source": "popular"
+    },
+    {
+      "id": 521029,
+      "title": "Annabelle Comes Home",
+      "release_date": "2019-06-26",
+      "vote_average": 6.405,
+      "popularity": 14.7054,
+      "source": "popular"
+    },
+    {
+      "id": 10193,
+      "title": "Toy Story 3",
+      "release_date": "2010-06-16",
+      "vote_average": 7.802,
+      "popularity": 14.7024,
+      "source": "popular"
+    },
+    {
+      "id": 10681,
+      "title": "WALL·E",
+      "release_date": "2008-06-22",
+      "vote_average": 8.102,
+      "popularity": 14.6893,
+      "source": "popular"
+    },
+    {
+      "id": 1215798,
+      "title": "The Cut",
+      "release_date": "2025-09-04",
+      "vote_average": 6.7,
+      "popularity": 14.6883,
+      "source": "popular"
+    },
+    {
+      "id": 449927,
+      "title": "Chasing the Dragon",
+      "release_date": "2017-09-28",
+      "vote_average": 6.912,
+      "popularity": 14.67,
+      "source": "popular"
+    },
+    {
+      "id": 167032,
+      "title": "Curse of Chucky",
+      "release_date": "2013-10-08",
+      "vote_average": 5.922,
+      "popularity": 14.6508,
+      "source": "popular"
+    },
+    {
+      "id": 1188423,
+      "title": "Site",
+      "release_date": "2025-08-08",
+      "vote_average": 6.583,
+      "popularity": 14.6382,
+      "source": "popular"
+    },
+    {
+      "id": 10191,
+      "title": "How to Train Your Dragon",
+      "release_date": "2010-03-18",
+      "vote_average": 7.853,
+      "popularity": 14.6327,
+      "source": "popular"
+    },
+    {
+      "id": 16067,
+      "title": "Final Days of Planet Earth",
+      "release_date": "2006-03-15",
+      "vote_average": 4.7,
+      "popularity": 14.6314,
+      "source": "popular"
+    },
+    {
+      "id": 507241,
+      "title": "The Killer's Game",
+      "release_date": "2024-09-12",
+      "vote_average": 6.399,
+      "popularity": 14.6053,
+      "source": "popular"
+    },
+    {
+      "id": 296096,
+      "title": "Me Before You",
+      "release_date": "2016-06-01",
+      "vote_average": 7.928,
+      "popularity": 14.6008,
+      "source": "popular"
+    },
+    {
+      "id": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "release_date": "2014-04-16",
+      "vote_average": 6.523,
+      "popularity": 14.5888,
+      "source": "popular"
+    },
+    {
+      "id": 404378,
+      "title": "A Street Cat Named Bob",
+      "release_date": "2016-11-04",
+      "vote_average": 7.902,
+      "popularity": 14.5777,
+      "source": "popular"
+    },
+    {
+      "id": 1287536,
+      "title": "Dora and the Search for Sol Dorado",
+      "release_date": "2025-07-02",
+      "vote_average": 6.587,
+      "popularity": 14.5669,
+      "source": "popular"
+    },
+    {
+      "id": 19173,
+      "title": "Diary of a Nymphomaniac",
+      "release_date": "2008-10-17",
+      "vote_average": 5.6,
+      "popularity": 14.5659,
+      "source": "popular"
+    },
+    {
+      "id": 748783,
+      "title": "The Garfield Movie",
+      "release_date": "2024-04-30",
+      "vote_average": 7.04,
+      "popularity": 14.4992,
+      "source": "popular"
+    },
+    {
+      "id": 59762,
+      "title": "Silent Night Deadly Night 4: Initiation",
+      "release_date": "1990-11-21",
+      "vote_average": 4.2,
+      "popularity": 14.4572,
+      "source": "popular"
+    },
+    {
+      "id": 426063,
+      "title": "Nosferatu",
+      "release_date": "2024-12-25",
+      "vote_average": 6.703,
+      "popularity": 14.4475,
+      "source": "popular"
+    },
+    {
+      "id": 588228,
+      "title": "The Tomorrow War",
+      "release_date": "2021-09-03",
+      "vote_average": 7.492,
+      "popularity": 14.4401,
+      "source": "popular"
+    },
+    {
+      "id": 272,
+      "title": "Batman Begins",
+      "release_date": "2005-06-10",
+      "vote_average": 7.717,
+      "popularity": 14.4361,
+      "source": "popular"
+    },
+    {
+      "id": 448982,
+      "title": "King Cohen: The Wild World of Filmmaker Larry Cohen",
+      "release_date": "2018-07-07",
+      "vote_average": 6.6,
+      "popularity": 14.4237,
+      "source": "popular"
+    },
+    {
+      "id": 670435,
+      "title": "Female Teacher Diary: Forbidden Sex",
+      "release_date": "1995-09-08",
+      "vote_average": 4.8,
+      "popularity": 14.4231,
+      "source": "popular"
+    },
+    {
+      "id": 1930,
+      "title": "The Amazing Spider-Man",
+      "release_date": "2012-06-23",
+      "vote_average": 6.722,
+      "popularity": 14.3556,
+      "source": "popular"
+    },
+    {
+      "id": 381648,
+      "title": "Lady Karuizawa",
+      "release_date": "1982-08-06",
+      "vote_average": 4.8,
+      "popularity": 14.3531,
+      "source": "popular"
+    },
+    {
+      "id": 939790,
+      "title": "OLIVIA RODRIGO: driving home 2 u (a SOUR film)",
+      "release_date": "2022-03-25",
+      "vote_average": 7.8,
+      "popularity": 14.3375,
+      "source": "popular"
+    },
+    {
+      "id": 1197137,
+      "title": "Black Phone 2",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "popularity": 14.3295,
+      "source": "popular"
+    },
+    {
+      "id": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "release_date": "2009-06-26",
+      "vote_average": 6.8,
+      "popularity": 14.3159,
+      "source": "popular"
+    },
+    {
+      "id": 630940,
+      "title": "Jokyoshi Nikki 2 Abakareta Sei",
+      "release_date": "1996-06-13",
+      "vote_average": 9.3,
+      "popularity": 14.2883,
+      "source": "popular"
+    },
+    {
+      "id": 809,
+      "title": "Shrek 2",
+      "release_date": "2004-05-19",
+      "vote_average": 7.301,
+      "popularity": 14.2865,
+      "source": "popular"
+    },
+    {
+      "id": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "release_date": "2014-07-08",
+      "vote_average": 7.3,
+      "popularity": 14.2776,
+      "source": "popular"
+    },
+    {
+      "id": 67051,
+      "title": "The Desperate Trail",
+      "release_date": "1994-10-21",
+      "vote_average": 4.727,
+      "popularity": 14.2702,
+      "source": "popular"
+    },
+    {
+      "id": 4935,
+      "title": "Howl's Moving Castle",
+      "release_date": "2004-09-09",
+      "vote_average": 8.396,
+      "popularity": 14.267,
+      "source": "popular"
+    },
+    {
+      "id": 641284,
+      "title": "Excitation au soleil",
+      "release_date": "1978-03-22",
+      "vote_average": 2.5,
+      "popularity": 14.2626,
+      "source": "popular"
+    },
+    {
+      "id": 340027,
+      "title": "Brain on Fire",
+      "release_date": "2017-02-22",
+      "vote_average": 7.0,
+      "popularity": 14.251,
+      "source": "popular"
+    },
+    {
+      "id": 1124620,
+      "title": "The Monkey",
+      "release_date": "2025-02-14",
+      "vote_average": 5.967,
+      "popularity": 14.2269,
+      "source": "popular"
+    },
+    {
+      "id": 481533,
+      "title": "When Jeff Tried to Save the World",
+      "release_date": "2018-04-16",
+      "vote_average": 5.7,
+      "popularity": 14.1987,
+      "source": "popular"
+    },
+    {
+      "id": 328752,
+      "title": "A Pacemaker and a Sidecar",
+      "release_date": "1976-01-04",
+      "vote_average": 5.8,
+      "popularity": 14.183,
+      "source": "popular"
+    },
+    {
+      "id": 1726,
+      "title": "Iron Man",
+      "release_date": "2008-04-30",
+      "vote_average": 7.653,
+      "popularity": 14.1706,
+      "source": "popular"
+    },
+    {
+      "id": 968051,
+      "title": "The Nun II",
+      "release_date": "2023-09-06",
+      "vote_average": 6.7,
+      "popularity": 14.1648,
+      "source": "popular"
+    },
+    {
+      "id": 356216,
+      "title": "The Rise of the Krays",
+      "release_date": "2015-08-29",
+      "vote_average": 4.7,
+      "popularity": 14.1466,
+      "source": "popular"
+    },
+    {
+      "id": 1468057,
+      "title": "GATAO: Big Brothers",
+      "release_date": "2025-08-21",
+      "vote_average": 10.0,
+      "popularity": 14.1448,
+      "source": "popular"
+    },
+    {
+      "id": 1979,
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "release_date": "2007-06-13",
+      "vote_average": 5.623,
+      "popularity": 14.1412,
+      "source": "popular"
+    },
+    {
+      "id": 98368,
+      "title": "Ritual",
+      "release_date": "2012-04-26",
+      "vote_average": 5.6,
+      "popularity": 14.1375,
+      "source": "popular"
+    },
+    {
+      "id": 1484453,
+      "title": "Snoopy Presents: A Summer Musical",
+      "release_date": "2025-08-14",
+      "vote_average": 7.5,
+      "popularity": 14.1363,
+      "source": "popular"
+    },
+    {
+      "id": 12153,
+      "title": "White Chicks",
+      "release_date": "2004-06-23",
+      "vote_average": 6.931,
+      "popularity": 14.1225,
+      "source": "popular"
+    },
+    {
+      "id": 12,
+      "title": "Finding Nemo",
+      "release_date": "2003-05-30",
+      "vote_average": 7.817,
+      "popularity": 14.1202,
+      "source": "popular"
+    },
+    {
+      "id": 844409,
+      "title": "The Unlikely Pilgrimage of Harold Fry",
+      "release_date": "2023-04-27",
+      "vote_average": 6.6,
+      "popularity": 14.0904,
+      "source": "popular"
+    },
+    {
+      "id": 240,
+      "title": "The Godfather Part II",
+      "release_date": "1974-12-20",
+      "vote_average": 8.571,
+      "popularity": 14.082,
+      "source": "popular"
+    },
+    {
+      "id": 484889,
+      "title": "Rise of the Footsoldier 3: The Pat Tate Story",
+      "release_date": "2017-11-03",
+      "vote_average": 6.2,
+      "popularity": 14.075,
+      "source": "popular"
+    },
+    {
+      "id": 1126166,
+      "title": "Flight Risk",
+      "release_date": "2025-01-22",
+      "vote_average": 6.0,
+      "popularity": 14.0745,
+      "source": "popular"
+    },
+    {
+      "id": 1117269,
+      "title": "Showdown at the Grand",
+      "release_date": "2023-11-03",
+      "vote_average": 5.3,
+      "popularity": 14.0712,
+      "source": "popular"
+    },
+    {
+      "id": 329865,
+      "title": "Arrival",
+      "release_date": "2016-11-10",
+      "vote_average": 7.619,
+      "popularity": 14.0672,
+      "source": "popular"
+    },
+    {
+      "id": 210577,
+      "title": "Gone Girl",
+      "release_date": "2014-10-01",
+      "vote_average": 7.89,
+      "popularity": 14.0657,
+      "source": "popular"
+    },
+    {
+      "id": 28937,
+      "title": "Boston Strangler The Untold Story",
+      "release_date": "2008-07-22",
+      "vote_average": 3.7,
+      "popularity": 14.0496,
+      "source": "popular"
+    },
+    {
+      "id": 976573,
+      "title": "Elemental",
+      "release_date": "2023-06-14",
+      "vote_average": 7.6,
+      "popularity": 14.0443,
+      "source": "popular"
+    },
+    {
+      "id": 90148,
+      "title": "Of Love and Shadows",
+      "release_date": "1994-05-10",
+      "vote_average": 5.3,
+      "popularity": 14.0333,
+      "source": "popular"
+    },
+    {
+      "id": 1245993,
+      "title": "Caught Stealing",
+      "release_date": "2025-08-26",
+      "vote_average": 6.95,
+      "popularity": 13.9841,
+      "source": "popular"
+    },
+    {
+      "id": 646097,
+      "title": "Rebel Ridge",
+      "release_date": "2024-08-27",
+      "vote_average": 6.993,
+      "popularity": 13.9725,
+      "source": "popular"
+    },
+    {
+      "id": 1466016,
+      "title": "El Conjuro Siniestro",
+      "release_date": "2023-03-20",
+      "vote_average": 0.0,
+      "popularity": 13.9472,
+      "source": "popular"
+    },
+    {
+      "id": 214756,
+      "title": "Ted 2",
+      "release_date": "2015-06-25",
+      "vote_average": 6.316,
+      "popularity": 13.9279,
+      "source": "popular"
+    },
+    {
+      "id": 435720,
+      "title": "Framed for Murder: A Fixer Upper Mystery",
+      "release_date": "2017-01-15",
+      "vote_average": 6.6,
+      "popularity": 13.9161,
+      "source": "popular"
+    },
+    {
+      "id": 811941,
+      "title": "Devara: Part 1",
+      "release_date": "2024-09-26",
+      "vote_average": 7.0,
+      "popularity": 13.9018,
+      "source": "popular"
+    },
+    {
+      "id": 9479,
+      "title": "The Nightmare Before Christmas",
+      "release_date": "1993-10-09",
+      "vote_average": 7.834,
+      "popularity": 13.8956,
+      "source": "popular"
+    },
+    {
+      "id": 622721,
+      "title": "Chaos and Confusion",
+      "release_date": "1997-11-19",
+      "vote_average": 0.0,
+      "popularity": 13.8881,
+      "source": "popular"
+    },
+    {
+      "id": 1153714,
+      "title": "Death of a Unicorn",
+      "release_date": "2025-03-27",
+      "vote_average": 6.474,
+      "popularity": 13.8572,
+      "source": "popular"
+    },
+    {
+      "id": 68721,
+      "title": "Iron Man 3",
+      "release_date": "2013-04-18",
+      "vote_average": 6.93,
+      "popularity": 13.855,
+      "source": "popular"
+    },
+    {
+      "id": 929590,
+      "title": "Civil War",
+      "release_date": "2024-04-10",
+      "vote_average": 6.855,
+      "popularity": 13.8475,
+      "source": "popular"
+    },
+    {
+      "id": 844819,
+      "title": "A Christmas to Savour",
+      "release_date": "2021-11-26",
+      "vote_average": 5.4,
+      "popularity": 13.8096,
+      "source": "popular"
+    },
+    {
+      "id": 156022,
+      "title": "The Equalizer",
+      "release_date": "2014-09-24",
+      "vote_average": 7.281,
+      "popularity": 13.8047,
+      "source": "popular"
+    },
+    {
+      "id": 18239,
+      "title": "The Twilight Saga: New Moon",
+      "release_date": "2009-11-18",
+      "vote_average": 5.994,
+      "popularity": 13.7688,
+      "source": "popular"
+    },
+    {
+      "id": 1015981,
+      "title": "Jolly LLB 3",
+      "release_date": "2025-09-19",
+      "vote_average": 8.333,
+      "popularity": 13.7659,
+      "source": "popular"
+    },
+    {
+      "id": 1357633,
+      "title": "Solo Leveling -ReAwakening-",
+      "release_date": "2024-11-26",
+      "vote_average": 7.0,
+      "popularity": 13.7642,
+      "source": "popular"
+    },
+    {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyoncé",
+      "release_date": "2019-04-16",
+      "vote_average": 8.1,
+      "popularity": 13.7554,
+      "source": "popular"
+    },
+    {
+      "id": 425,
+      "title": "Ice Age",
+      "release_date": "2002-03-14",
+      "vote_average": 7.4,
+      "popularity": 13.7513,
+      "source": "popular"
+    },
+    {
+      "id": 704630,
+      "title": "Asylum: Twisted Horror and Fantasy Tales",
+      "release_date": "2020-07-02",
+      "vote_average": 5.932,
+      "popularity": 13.7496,
+      "source": "popular"
+    },
+    {
+      "id": 244786,
+      "title": "Whiplash",
+      "release_date": "2014-10-10",
+      "vote_average": 8.376,
+      "popularity": 13.7483,
+      "source": "popular"
+    },
+    {
+      "id": 339148,
+      "title": "Already Tomorrow in Hong Kong",
+      "release_date": "2016-02-12",
+      "vote_average": 5.959,
+      "popularity": 13.6667,
+      "source": "popular"
+    },
+    {
+      "id": 22881,
+      "title": "The Blind Side",
+      "release_date": "2009-11-20",
+      "vote_average": 7.675,
+      "popularity": 13.662,
+      "source": "popular"
+    },
+    {
+      "id": 696506,
+      "title": "Mickey 17",
+      "release_date": "2025-02-28",
+      "vote_average": 6.87,
+      "popularity": 13.6242,
+      "source": "popular"
+    },
+    {
+      "id": 944401,
+      "title": "Dogman",
+      "release_date": "2023-09-27",
+      "vote_average": 7.884,
+      "popularity": 13.5984,
+      "source": "popular"
+    },
+    {
+      "id": 710258,
+      "title": "Rust",
+      "release_date": "2025-05-01",
+      "vote_average": 6.713,
+      "popularity": 13.5812,
+      "source": "popular"
+    },
+    {
+      "id": 1311844,
+      "title": "The Twisters",
+      "release_date": "2024-06-28",
+      "vote_average": 5.844,
+      "popularity": 13.5782,
+      "source": "popular"
+    },
+    {
+      "id": 698508,
+      "title": "Redeeming Love",
+      "release_date": "2022-01-21",
+      "vote_average": 7.858,
+      "popularity": 13.5762,
+      "source": "popular"
+    },
+    {
+      "id": 260211,
+      "title": "Achmed Saves America",
+      "release_date": "2014-03-18",
+      "vote_average": 5.4,
+      "popularity": 13.5715,
+      "source": "popular"
+    },
+    {
+      "id": 166428,
+      "title": "How to Train Your Dragon: The Hidden World",
+      "release_date": "2019-01-03",
+      "vote_average": 7.749,
+      "popularity": 13.5679,
+      "source": "popular"
+    },
+    {
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "release_date": "2026-05-20",
+      "vote_average": 0.0,
+      "popularity": 13.5652,
+      "source": "popular"
+    },
+    {
+      "id": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "release_date": "2022-12-07",
+      "vote_average": 8.213,
+      "popularity": 13.5434,
+      "source": "popular"
+    },
+    {
+      "id": 389,
+      "title": "12 Angry Men",
+      "release_date": "1957-04-10",
+      "vote_average": 8.548,
+      "popularity": 13.5236,
+      "source": "popular"
+    },
+    {
+      "id": 786892,
+      "title": "Furiosa: A Mad Max Saga",
+      "release_date": "2024-05-22",
+      "vote_average": 7.465,
+      "popularity": 13.5119,
+      "source": "popular"
+    },
+    {
+      "id": 572802,
+      "title": "Aquaman and the Lost Kingdom",
+      "release_date": "2023-12-20",
+      "vote_average": 6.579,
+      "popularity": 13.501,
+      "source": "popular"
+    },
+    {
+      "id": 11036,
+      "title": "The Notebook",
+      "release_date": "2004-05-25",
+      "vote_average": 7.891,
+      "popularity": 13.492,
+      "source": "popular"
+    },
+    {
+      "id": 424,
+      "title": "Schindler's List",
+      "release_date": "1993-12-15",
+      "vote_average": 8.566,
+      "popularity": 13.4879,
+      "source": "popular"
+    },
+    {
+      "id": 739405,
+      "title": "Operation Fortune: Ruse de Guerre",
+      "release_date": "2023-01-04",
+      "vote_average": 6.478,
+      "popularity": 13.474,
+      "source": "popular"
+    },
+    {
+      "id": 1010756,
+      "title": "The Strangers: Chapter 2",
+      "release_date": "2025-09-25",
+      "vote_average": 6.7,
+      "popularity": 13.4698,
+      "source": "popular"
+    },
+    {
+      "id": 1353328,
+      "title": "Hook",
+      "release_date": "2025-04-04",
+      "vote_average": 6.0,
+      "popularity": 13.4665,
+      "source": "popular"
+    },
+    {
+      "id": 73861,
+      "title": "A Serbian Film",
+      "release_date": "2010-01-06",
+      "vote_average": 5.452,
+      "popularity": 13.4566,
+      "source": "popular"
+    },
+    {
+      "id": 98566,
+      "title": "Teenage Mutant Ninja Turtles",
+      "release_date": "2014-08-07",
+      "vote_average": 5.921,
+      "popularity": 13.4529,
+      "source": "popular"
+    },
+    {
+      "id": 18,
+      "title": "The Fifth Element",
+      "release_date": "1997-05-02",
+      "vote_average": 7.558,
+      "popularity": 13.4398,
+      "source": "popular"
+    },
+    {
+      "id": 2043,
+      "title": "Along Came a Spider",
+      "release_date": "2001-04-06",
+      "vote_average": 6.332,
+      "popularity": 13.4298,
+      "source": "popular"
+    },
+    {
+      "id": 1413052,
+      "title": "Bloodrunner Zero",
+      "release_date": "2018-04-18",
+      "vote_average": 3.0,
+      "popularity": 13.3964,
+      "source": "popular"
+    },
+    {
+      "id": 1118031,
+      "title": "Apocalypse Z: The Beginning of the End",
+      "release_date": "2024-10-04",
+      "vote_average": 6.732,
+      "popularity": 13.3851,
+      "source": "popular"
+    },
+    {
+      "id": 484468,
+      "title": "The Wolf's Call",
+      "release_date": "2019-02-20",
+      "vote_average": 7.543,
+      "popularity": 13.3684,
+      "source": "popular"
+    },
+    {
+      "id": 1406088,
+      "title": "Marvel Zombies: The Movie",
+      "release_date": "2008-10-18",
+      "vote_average": 5.0,
+      "popularity": 13.3606,
+      "source": "popular"
+    },
+    {
+      "id": 1373310,
+      "title": "Baban Baban Ban Vampire",
+      "release_date": "2025-07-04",
+      "vote_average": 6.8,
+      "popularity": 13.3575,
+      "source": "popular"
+    },
+    {
+      "id": 1080365,
+      "title": "They Call Him OG",
+      "release_date": "2025-09-24",
+      "vote_average": 6.7,
+      "popularity": 13.3547,
+      "source": "popular"
+    },
+    {
+      "id": 526746,
+      "title": "The Lost Viking",
+      "release_date": "2018-05-28",
+      "vote_average": 6.4,
+      "popularity": 13.3404,
+      "source": "popular"
+    },
+    {
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "release_date": "2023-05-03",
+      "vote_average": 7.93,
+      "popularity": 13.3066,
+      "source": "popular"
+    },
+    {
+      "id": 466420,
+      "title": "Killers of the Flower Moon",
+      "release_date": "2023-10-18",
+      "vote_average": 7.413,
+      "popularity": 13.3038,
+      "source": "popular"
+    },
+    {
+      "id": 1476292,
+      "title": "Kalakal",
+      "release_date": "2025-06-13",
+      "vote_average": 7.2,
+      "popularity": 13.2994,
+      "source": "popular"
+    },
+    {
+      "id": 324786,
+      "title": "Hacksaw Ridge",
+      "release_date": "2016-10-07",
+      "vote_average": 8.193,
+      "popularity": 13.2973,
+      "source": "popular"
+    }
+  ],
+  "collection_date": "2025-09-26"
+}

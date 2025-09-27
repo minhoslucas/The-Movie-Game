@@ -3,7 +3,7 @@ import { Pool } from 'pg';
 
 // Substitua pelos dados do seu Neon
 const pool = new Pool({
-  connectionString: process.env.NEON_DATABASE_URL,
+  connectionString: process.env.DATABASE_URL,
 });
 
 export async function GET() {

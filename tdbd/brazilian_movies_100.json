@@ -1,0 +1,1548 @@
+{
+  "total_movies": 100,
+  "movie_ids": [
+    132608,
+    71685,
+    254984,
+    421386,
+    76816,
+    67612,
+    1251875,
+    197158,
+    228396,
+    1019952,
+    1173558,
+    551506,
+    317523,
+    598,
+    315992,
+    126043,
+    253020,
+    735838,
+    363103,
+    46689,
+    146541,
+    95342,
+    74349,
+    227952,
+    45179,
+    227970,
+    1186947,
+    553608,
+    1057929,
+    173722,
+    326307,
+    194732,
+    314029,
+    765613,
+    480941,
+    217277,
+    32958,
+    229057,
+    97989,
+    564427,
+    19147,
+    54989,
+    250068,
+    148183,
+    39641,
+    86234,
+    662745,
+    49374,
+    417505,
+    28393,
+    60142,
+    49393,
+    652020,
+    228609,
+    21253,
+    466190,
+    243474,
+    148754,
+    510228,
+    194843,
+    434471,
+    215858,
+    198455,
+    231223,
+    51515,
+    27457,
+    230723,
+    1429834,
+    818508,
+    818511,
+    228177,
+    254291,
+    1054561,
+    255332,
+    173928,
+    55145,
+    359787,
+    186738,
+    1302903,
+    348545,
+    1000837,
+    127880,
+    104840,
+    159118,
+    515985,
+    997265,
+    133012,
+    363925,
+    258968,
+    43420,
+    762792,
+    180662,
+    133569,
+    255939,
+    786375,
+    102860,
+    17358,
+    534992,
+    1165264,
+    444404
+  ],
+  "movie_details": [
+    {
+      "id": 95342,
+      "title": "O Céu de Suely",
+      "original_title": "O Céu de Suely",
+      "release_date": "2006-11-17",
+      "vote_average": 7.5,
+      "popularity": 16.0861,
+      "overview": "Hermila (Hermila Guedes) é uma jovem de 21 anos que está de volta à sua cidade-natal, a pequena Iguatu, localizada no interior do Ceará. Ela volta juntamente com seu filho, Mateuzinho, e aguarda para daqui a algumas semanas a chegada de Mateus, pai da criança, que ficou em São Paulo para acertar assuntos pendentes. Porém o tempo passa e Mateus simplesmente desaparece. Querendo deixar o lugar de qualquer forma, Hermila tem uma idéia inusitada: rifar seu próprio corpo para conseguir dinheiro suficiente para comprar passagens de ônibus para longe e iniciar nova vida.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France",
+        "Germany",
+        "Portugal"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 363103,
+      "title": "Nise: O Coração da Loucura",
+      "original_title": "Nise: O Coração da Loucura",
+      "release_date": "2016-04-21",
+      "vote_average": 8.1,
+      "popularity": 11.65,
+      "overview": "Ao voltar a trabalhar em um hospital psiquiátrico no subúrbio do Rio de Janeiro, após sair da prisão, a doutora Nise da Silveira (Gloria Pires) propõe uma nova forma de tratamento aos pacientes que sofrem da esquizofrenia, eliminando o eletrochoque e lobotomia. Seus colegas de trabalho discordam do seu meio de tratamento e a isolam, restando a ela assumir o abandonado Setor de Terapia Ocupacional, onde dá início a uma nova forma de lidar com os pacientes, através do amor e da arte.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 67612,
+      "title": "Deus e o Diabo na Terra do Sol",
+      "original_title": "Deus e o Diabo na Terra do Sol",
+      "release_date": "1964-03-13",
+      "vote_average": 7.097,
+      "popularity": 11.1431,
+      "overview": "Manuel vive com a esposa Rosa e a mãe, numa vida muito pobre no sertão brasileiro. Numa discussão com o Coronel que controla sua região o rapaz se revolta e mata o poderoso. Sua única opção é fugir deixando o pouco que tem para trás e seguindo o beato Sebastião que promete a bênção de Deus aos seus fiéis. Manuel pode, sem querer, estar novamente entrando em problemas, pois a oligarquia local encomendou a morte de Sebastião e seus seguidores a João das Mortes, com medo que uma situação como a de Canudos se repita.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 515985,
+      "title": "A Febre",
+      "original_title": "A Febre",
+      "release_date": "2021-06-30",
+      "vote_average": 6.3,
+      "popularity": 10.8737,
+      "overview": "Justino, é um guarda de segurança no porto de Manaus. Enquanto sua filha se prepara para estudar medicina em Brasília, Justino é dominado por uma febre misteriosa.",
+      "original_language": "pt",
+      "production_countries": [
+        "Germany",
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1251875,
+      "title": "Uma Advogada Brilhante",
+      "original_title": "Uma Advogada Brilhante",
+      "release_date": "2025-03-06",
+      "vote_average": 6.318,
+      "popularity": 9.0335,
+      "overview": "A empresa onde o advogado Michelle Barbieri trabalha(Leandro Hassum), também conhecido como Mike, é comprada por um escritório que decide manter apenas mulheres nos cargos. Porém, o personagem não é demitido, já que, por conta do nome, o setor de RH acredita que se trata de uma mulher. O personagem, então, passa a se vestir com roupas femininas para conseguir permanecer no emprego.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 997265,
+      "title": "Regra 34",
+      "original_title": "Regra 34",
+      "release_date": "2023-01-19",
+      "vote_average": 5.6,
+      "popularity": 8.258,
+      "overview": "Simone é uma jovem defensora pública que defende mulheres em casos de abuso. No entanto, seus próprios interesses sexuais a levam a um mundo de violência e erotismo.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1173558,
+      "title": "O Lado Bom de Ser Traída",
+      "original_title": "O Lado Bom de Ser Traída",
+      "release_date": "2023-10-25",
+      "vote_average": 6.373,
+      "popularity": 8.0984,
+      "overview": "Nesta adaptação do livro de Sue Hecker, uma contadora vê a traição do noivo como uma oportunidade de transformar sua vida sexual, resultando em consequências arriscadas.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 76816,
+      "title": "A Idade da Terra",
+      "original_title": "A Idade da Terra",
+      "release_date": "1980-11-17",
+      "vote_average": 6.2,
+      "popularity": 8.0907,
+      "overview": "Quatro personificações distintas da figura de Cristo – um negro, um militar, um indígena e um guerrilheiro – são os cavaleiros do apocalipse das terras indígenas, lutando contra a ganância e a violência “civilizatória” do poderoso John Brahms, um explorador imperialista inescrupuloso.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 102860,
+      "title": "Histórias Que Só Existem Quando Lembradas",
+      "original_title": "Histórias Que Só Existem Quando Lembradas",
+      "release_date": "2012-05-11",
+      "vote_average": 7.7,
+      "popularity": 7.1527,
+      "overview": "Numa pequena cidade do interior, o tempo parece ter parado. Quando a fotógrafa Rita chega de fora, os habitantes locais inicialmente reticentes se abrem a ela. Apenas o padre continua a achar sua presença preocupante, principalmente quando ela começa a fazer perguntas sobre o cemitério trancado.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 32958,
+      "title": "O Contador de Histórias",
+      "original_title": "O Contador de Histórias",
+      "release_date": "2009-08-07",
+      "vote_average": 6.5,
+      "popularity": 7.0793,
+      "overview": "Anos 70. Aos 6 anos Roberto Carlos Ramos (Marco Ribeiro) foi escolhido por sua mãe (Jú Colombo) para ser interno em uma instituição oficial que, segundo apregoava a propaganda, visava a formação de crianças em médicos, advogados e engenheiros. Entretanto a realidade era bem diferente, o que fez com que Roberto aprendesse as regras de sobrevivência no local. Pouco depois de completar 7 anos ele é transferido, passando a conviver com crianças até 14 anos. Aos 13 anos, ainda analfabeto, Roberto tem contato com as drogas e já acumula mais de 100 tentativas de fuga. Considerado irrecuperável por muitos, Roberto recebe a visita da psicóloga francesa Margherit Duvas (Maria de Medeiros). Tratando-o com respeito, ela inicia o processo de recuperação e aprendizagem de Roberto.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 598,
+      "title": "Cidade de Deus",
+      "original_title": "Cidade de Deus",
+      "release_date": "2002-08-30",
+      "vote_average": 8.429,
+      "popularity": 6.9601,
+      "overview": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France",
+        "Germany"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 250068,
+      "title": "O Segredo dos Diamantes",
+      "original_title": "O Segredo dos Diamantes",
+      "release_date": "2014-12-18",
+      "vote_average": 6.4,
+      "popularity": 6.8358,
+      "overview": "",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 326307,
+      "title": "Nosferato no Brasil",
+      "original_title": "Nosferato no Brasil",
+      "release_date": "1970-02-22",
+      "vote_average": 3.5,
+      "popularity": 6.7777,
+      "overview": "Comédia de terror dividida em duas partes: a primeira em branco e preto se passa em Budapeste no século XIX, quando Nosferato é morto por um príncipe. A segunda em cores e nos dias de hoje; nesta nova encarnação Nosferato resolve tirar férias no Brasil, onde se diverte vampirizando várias nativas... Com a chegada do verão é obrigado a voltar para o Velho Mundo. (RFL-IC/Ivampirismo) (Cinemateca Brasileira)",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 86234,
+      "title": "O Amuleto de Ogum",
+      "original_title": "O Amuleto de Ogum",
+      "release_date": "1974-05-21",
+      "vote_average": 6.2,
+      "popularity": 6.2145,
+      "overview": "Para entreter alguns ladrões, um guitarrista cego conta a história de um homem do Nordeste do Brasil, envolvido com criminosos que vivem nos subúrbios do Rio de Janeiro, que supostamente tinham um \"corpo fechado\", o que significa que seu corpo não podia ser atingido por balas ou outras armas, pelo desejo de Ogum, um dos deuses do candomblé, uma religião comum no Brasil e na África.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 315992,
+      "title": "Sangue Azul",
+      "original_title": "Sangue Azul",
+      "release_date": "2014-09-29",
+      "vote_average": 5.8,
+      "popularity": 6.1602,
+      "overview": "O circo Netuno monta lona em uma ilha paradisíaca. Zolah (Daniel de Oliveira), o homem-bala, já conhece o local. Lá ele foi criado, junto com a irmã Raquel (Caroline Abras), até o dia em que a mãe, Sônia (Sandra Corveloni), o mandou para longe temendo um incesto entre as duas crianças. Já adulto, ele reecontra a família depois de vinte anos e é chegado o momento de resolver as questões do passado que ainda o atormentam.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 228177,
+      "title": "Até Que a Sorte nos Separe 2",
+      "original_title": "Até Que a Sorte nos Separe 2",
+      "release_date": "2013-12-27",
+      "vote_average": 5.8,
+      "popularity": 6.0272,
+      "overview": "Três anos depois, Tino (Leandro Hassum) e Jane (Camila Morgado) estão mais uma vez em dificuldades financeiras. O saldo bancário do casal é salvo graças ao inesperado falecimento de tio Olavinho, que deixou uma herança de R$ 100 milhões a ser dividida igualmente entre Jane e sua mãe, Estela (Arlete Salles). Como o último desejo do tio foi que suas cinzas sejam jogadas no Grand Canyon, Tino aproveita para levar a esposa e dois de seus filhos para conhecer Las Vegas. Entretanto, ele se empolga com a jogatina de um cassino e perde todo o dinheiro ganho por Jane na mesa de pôquer. Para piorar a situação, ainda fica devendo US$ 10 milhões a um capanga da máfia mexicana (Charles Paraventi), que deseja receber o dinheiro a todo custo.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 46689,
+      "title": "Lixo Extraordinário",
+      "original_title": "Waste Land",
+      "release_date": "2010-01-24",
+      "vote_average": 7.6,
+      "popularity": 5.7722,
+      "overview": "Uma análise sobre o trabalho do artista plástico Vik Muniz no Jardim Gramacho, localizado na cidade de Duque de Caxias (RJ), que é um dos maiores aterros sanitários do mundo.",
+      "original_language": "en",
+      "production_countries": [
+        "Brazil",
+        "United Kingdom"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 186738,
+      "title": "O Bandido da Luz Vermelha",
+      "original_title": "O Bandido da Luz Vermelha",
+      "release_date": "1968-12-02",
+      "vote_average": 7.7,
+      "popularity": 5.7273,
+      "overview": "Baseado na real história do criminoso catarinense que assaltava suas vítimas em Santos. Conhecido como o \"bandido da luz vermelha\" (por utilizar sempre uma lanterna vermelha durante seus golpes), João Acácio Pereira da Costa foi perseguido pela polícia durante seis anos, após assassinar algumas de suas vítimas. Filme importante para a cinematografia brasileira, um dos destaques do Cinema Marginal.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 71685,
+      "title": "Xuxinha e Guto Contra os Monstros do Espaço",
+      "original_title": "Xuxinha e Guto Contra os Monstros do Espaço",
+      "release_date": "2005-12-23",
+      "vote_average": 4.7,
+      "popularity": 5.6558,
+      "overview": "Com a ajuda de Xuxinha, sua anjinha da guarda, Guto, um menino de 7 anos, enfrenta terríveis monstros comedores de lixo de um planeta chamado XYZ, que fica numa galáxia distante da nossa.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 180662,
+      "title": "O Viajante",
+      "original_title": "O Viajante",
+      "release_date": "1998-11-01",
+      "vote_average": 6.1,
+      "popularity": 5.6387,
+      "overview": "",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 314029,
+      "title": "Boi Neon",
+      "original_title": "Boi Neon",
+      "release_date": "2016-01-14",
+      "vote_average": 6.765,
+      "popularity": 5.6315,
+      "overview": "Iremar (Juliano Cazarré) é um vaqueiro de curral que viaja pelo Nordeste, ao lado de Galega (Maeve Jinkings) e a pequena Geise (Samya de Lavor). Por onde passa Iremar recolhe revistas, panos e restos de manequins, já que seu grande sonho é largar tudo para iniciar uma carreira como estilista no Pólo de Confecções do Agreste.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "Netherlands",
+        "Uruguay"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 228396,
+      "title": "Policarpo Quaresma, Herói do Brasil",
+      "original_title": "Policarpo Quaresma, Herói do Brasil",
+      "release_date": "1998-04-29",
+      "vote_average": 4.2,
+      "popularity": 5.2765,
+      "overview": "Adaptação do romance Triste Fim de Policarpo Quaresma, que conta a história de Policarpo, herói inspirado em Dom Quixote, personagem da Era Moderna.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 54989,
+      "title": "Amor Estranho Amor",
+      "original_title": "Amor Estranho Amor",
+      "release_date": "1982-01-11",
+      "vote_average": 5.9,
+      "popularity": 5.2585,
+      "overview": "São Paulo, 1937. Hugo (Marcelo Ribeiro) é um jovem que veio de Santa Catarina, sendo trazido por sua avó para devolvê-lo à sua mãe, Anna (Vera Fisher), que é amante de Osmar Passos (Tarcísio Meira), o político mais influente do estado. Ela habita uma luxuosa mansão com várias outras jovens, todas comandadas por Laura (Íris Bruzzi) e a serviço das manobras políticas de Osmar, que utiliza a casa para festas e orgias a fim de impressionar e agradar possíveis aliados políticos. A chegada do menino coincide com o dia de uma grande festa de despedida que será dada a Benício Mattos (Mauro Mendonça), o político mais influente e poderoso de outro estado. Tal fato deixa Laura bem contrariada, pois não quer que nada saia de . Assim Hugo é acomodado num quarto no sótão, mas se perturba no casarão, onde as circunstâncias fazem com que ele esteja sempre rodeado de jovens, que começam a provocá-lo e até a desejá-lo. Tamara (Xuxa) é a jovem que mais se interessa por Hugo.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 133012,
+      "title": "Os Trapalhões e a Árvore da Juventude",
+      "original_title": "Os Trapalhões e a Árvore da Juventude",
+      "release_date": "1991-09-24",
+      "vote_average": 5.7,
+      "popularity": 5.2334,
+      "overview": "Didi (Renato Aragão), Dedé (Dedé Santana), Mussum (Mussum) e Zacarias (Zacarias) são guardas-florestais que trabalham em plena Amazônia, onde combatem a ação de contrabandistas com a ajuda de Juliana (Cristiana Oliveira), uma bela engenheira. Entre várias confusões enfrentadas pela trupe, eles acabam encontrando a fonte da juventude e dela bebem, tornando-se novamente crianças.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 43420,
+      "title": "Cinema, Aspirinas e Urubus",
+      "original_title": "Cinema, Aspirinas e Urubus",
+      "release_date": "2005-05-17",
+      "vote_average": 7.0,
+      "popularity": 5.1693,
+      "overview": "O ano é 1942, o mundo vive a Segunda Guerra Mundial. Um alemão de nome Johann dirige um caminhão carregado de frascos de Aspirina e filmes com propagandas do produto. Nessa viagem, Johann conhece um país, ao mesmo tempo que escapa das notícias da guerra. Ranulpho, morador de uma pequena vila, faz o percurso inverso, ou seja, está indo buscar uma vida melhor no promissor e industrializado sudeste do país e, para isso, deixa sua pequena cidade natal rumo ao Rio de Janeiro. Numa estrada árida e desabitada, acontece o encontro ocasional desses dois personagens. Interesses em comum e a promessa de cada um chegar ao seu destino, faz com que Johann e Ranulpho partam nessa aventura juntos. Uma aventura que vai mudar suas vidas para sempre. Um road-movie emocionante vivido por personagens inesquecíveis.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 228609,
+      "title": "Faca de Dois Gumes",
+      "original_title": "Faca de Dois Gumes",
+      "release_date": "1989-06-21",
+      "vote_average": 5.9,
+      "popularity": 5.1078,
+      "overview": "Faca de Dois Gumes conta a história de Jorge Bragança, um advogado famoso, de família ilustre, marido apaixonado, que descobre que sua mulher está lhe traindo com seu sócio e melhor amigo. Jorge planeja vingança, preparando meticulosamente todas as peças de sua ação. Mas essa sua atitude passional, coloca-o no meio de uma avalanche de acontecimentos imprevistos e surpreendentes, que viram sua vida ao avesso. Baseado na obra homônima de Fernando Sabino, Faca de Dois Gumes é um filme surpreendente de início ao fim. Um clássico do policial brasileiro, um gênero tão raro em nosso cinema.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 243474,
+      "title": "Lúcia McCartney, Uma Garota de Programa",
+      "original_title": "Lúcia McCartney, Uma Garota de Programa",
+      "release_date": "1971-11-29",
+      "vote_average": 5.0,
+      "popularity": 5.0055,
+      "overview": "Lúcia McCartney é uma garota de programa e fã dos Beatles. Um diplomata se interessa por ela e contrata o serviço de um advogado para tirá-la do bordel.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 363925,
+      "title": "Operações Especiais",
+      "original_title": "Operações Especiais",
+      "release_date": "2015-10-07",
+      "vote_average": 6.6,
+      "popularity": 4.9679,
+      "overview": "Um grupo de policiais honestos é enviado a uma cidade do interior para resolver o problema da alta criminalidade. Em pouco tempo eles resolvem o problema enquanto a novata Francis precisa superar seus limites para provar que tem valor. Eles são aclamados pela opinião pública. Mas em pouco tempo a aplicação do rigor da lei começa a incomodar a todos e o verdadeiro inimigo se revela.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 253020,
+      "title": "A Estrada 47",
+      "original_title": "A Estrada 47",
+      "release_date": "2014-08-01",
+      "vote_average": 6.2,
+      "popularity": 4.9142,
+      "overview": "Na Segunda Guerra Mundial, o Brasil era aliado dos Estados Unidos, Inglaterra e França. Na época, foram encaminhados mais de 25 mil soldados da FEB (Força Expedicionária Brasileira) para combater os inimigos, representados pelo Eixo: Alemanha, Itália e Japão.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "Italy",
+        "Portugal"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 818508,
+      "title": "União Instável",
+      "original_title": "União Instável",
+      "release_date": "2023-11-24",
+      "vote_average": 5.5,
+      "popularity": 4.902,
+      "overview": "Alex e Eva resolveram se casar no exato lugar em que se conheceram, só que uma série de erros hilários vai arruinar essa jornada até o altar.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1000837,
+      "title": "Ainda Estou Aqui",
+      "original_title": "Ainda Estou Aqui",
+      "release_date": "2024-09-19",
+      "vote_average": 7.962,
+      "popularity": 4.8453,
+      "overview": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 215858,
+      "title": "Além da Paixão",
+      "original_title": "Além da Paixão",
+      "release_date": "1985-05-13",
+      "vote_average": 5.1,
+      "popularity": 4.8153,
+      "overview": "Fernanda (Regina Duarte), uma mulher casada e de classe média, envolve-se com Miguel (Paulo Castelli), um travesti e garoto de programa, após tê-lo atropelado. Os dois fazem uma viagem para o litoral, onde ela busca satisfazer-se sexualmente, enquanto Miguel, com segundas intenções, pretende realizar negócios criminosos usando o dinheiro de sua amante.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 27457,
+      "title": "Tempos de Paz",
+      "original_title": "Tempos de Paz",
+      "release_date": "2009-08-14",
+      "vote_average": 7.5,
+      "popularity": 4.7938,
+      "overview": "18 de abril de 1945. Durante anos centenas de pessoas foram torturadas pelo regime de Getúlio Vargas mas, com a pressão externa decorrente do fim da 2ª Guerra Mundial, vários presos políticos ganharam a liberdade. Segismundo (Tony Ramos) é um ex-oficial da polícia política de Vargas que agora teme que suas vítimas resolvam se vingar. Ele trabalha como chefe da seção de imigração na Alfândega do Rio de Janeiro, tendo por função evitar a entrada de nazistas. Em uma averiguação habitual ele interroga Clausewitz (Dan Stulbach), um ex-ator polonês que, por recitar Carlos Drummond de Andrade, lhe foi enviado por um subalterno. Para convencer que não é nazista, Clausewitz precisa usar todo o seu talento como ator.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 39641,
+      "title": "À Deriva",
+      "original_title": "À Deriva",
+      "release_date": "2009-07-31",
+      "vote_average": 6.0,
+      "popularity": 4.7675,
+      "overview": "Búzios, início dos anos 80. Filipa (Laura Neiva) é uma adolescente de 14 anos que passa as férias com seus pais, Matias (Vincent Cassel) e Clarice (Débora Bloch), e ainda os irmãos Fernanda (Izadora Armelin) e Antônio (Max Huzar). Clarice está sempre embriagada, destilando veneno contra o marido. Já Matias está mais preocupado em concluir seu novo livro, o que o torna desleixado em relação aos problemas da famíia. Filipa vive à margem desta situação, até que um dia flagra o pai beijando Ângela (Camilla Belle), uma bela americana que mora no local.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 255939,
+      "title": "Luz nas Trevas: A Volta do Bandido da Luz Vermelha",
+      "original_title": "Luz nas Trevas: A Volta do Bandido da Luz Vermelha",
+      "release_date": "2012-05-13",
+      "vote_average": 5.2,
+      "popularity": 4.7625,
+      "overview": "O filme retrata a trajetória de Jorge Bronze, conhecido pelo codinome Tudo-ou-Nada (André Guerreiro). Ele é filho do famoso Bandido de Luz Vermelha (Ney Matogrosso), que assaltava casas de ricos paulistanos e foi transformado em ícone pelo jornal Notícias Populares. Por outro lado, aborda a vida de Luz Vermelha em um presídio de segurança máxima, mostrando como ele lida com a fama de ser um dos criminosos mais famosos do Brasil.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 197158,
+      "title": "Pornô!",
+      "original_title": "Pornô!",
+      "release_date": "1981-01-01",
+      "vote_average": 5.1,
+      "popularity": 4.7485,
+      "overview": "Filme erótico em episódios com argumento e roteiro de Ody Fraga. Em \"As Gazelas\", Castillini mostra a intimidade de duas normalistas numa tarde dedicada ao estudo; David Cardoso, ator e diretor do segundo segmento, \"O Prazer da Virtude\", encarna um fetichista obcecado por hábitos religiosos; em \"O Gafanhoto\", John Doo dirige um drama sobrenatural sobre mulher cega e dominadora que pode ver através dos espelhos.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 133569,
+      "title": "Febre do Rato",
+      "original_title": "Febre do Rato",
+      "release_date": "2012-06-22",
+      "vote_average": 6.3,
+      "popularity": 4.6651,
+      "overview": "Febre do rato é uma expressão popular típica da cidade de Recife, que designa alguém que está fora de controle, alguém que está danado. E é assim que Zizo, um poeta inconformado e de atitude anarquista, chama um pequeno tablóide que publica às próprias custas.  O personagem está sempre às voltas com o universo que criou ao seu redor. Um mundo todo particular, onde saciar os desafortunados é uma mistura de benefício com altas doses de maldade.  Um dia todas as convicções de Zizo parecem ruir ao se deparar com Eneida, a consciência contemporânea e completamente periférica. As relações de Zizo entram em conflito e todos que fazem parte do jogo festivo do anarquista se manifestam de forma egoísta. O conflito entre o indivíduo e a coletividade se instaura.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1019952,
+      "title": "Aumenta que é Rock 'n' Roll",
+      "original_title": "Aumenta que é Rock 'n' Roll",
+      "release_date": "2024-04-25",
+      "vote_average": 7.3,
+      "popularity": 4.6499,
+      "overview": "O filme conta a história de Luiz Antônio, um atrapalhado radialista que, inesperadamente, se vê no comando de uma estação de rádio falida e caindo aos pedaços. Contando apenas com sua paixão pelo rock'n'roll e com uma equipe muito louca, ele cria uma das rádios mais emblemáticas da história do rock brasileiro, a Fluminense FM. Entre solos de guitarra e interferências no sinal, acompanhamos as aventuras e desventuras de Luiz que, ainda por cima, se apaixona por uma locutora casada.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 227952,
+      "title": "Anita e Garibaldi",
+      "original_title": "Anita e Garibaldi",
+      "release_date": "2013-12-06",
+      "vote_average": 5.0,
+      "popularity": 4.629,
+      "overview": "Giuseppe Garibaldi , 32 anos, comandante dos rebeldes republicanos que invadem Laguna, Santa Catarina, durante a Guerra dos Farrapos (1835 - 1845), encontra sua alma gêmea em Anita, 18 anos, esposa do sapateiro local. Entre a paixão e as batalhas, eles definirão o rumo de suas vidas e influenciarão o curso da revolução.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 28393,
+      "title": "Um Lobisomem na Amazônia",
+      "original_title": "Um Lobisomem na Amazônia",
+      "release_date": "2005-09-30",
+      "vote_average": 4.3,
+      "popularity": 4.5646,
+      "overview": "",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 359787,
+      "title": "Reza a Lenda",
+      "original_title": "Reza a Lenda",
+      "release_date": "2016-01-21",
+      "vote_average": 5.4,
+      "popularity": 4.5044,
+      "overview": "Ara é um homem de poucas palavras, mas muita determinação. Ele vive em uma terra devastada e sem lei que espera ansiosamente por uma espécie de messias que devolva a justiça e a liberdade, usurpadas pelo cruel Tenório. Auxiliado por sua gangue de motoqueiros armados, o rapaz irá lutar contra o universo ao seu redor e seus próprios dramas – como os ciúmes de sua mulher, Severina.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 194732,
+      "title": "Nem Sansão Nem Dalila",
+      "original_title": "Nem Sansão Nem Dalila",
+      "release_date": "1955-02-18",
+      "vote_average": 6.3,
+      "popularity": 4.5032,
+      "overview": "O que aconteceria se a cabeleira de Sansão fosse uma peruca? Você vai saber vendo a história do barbeiro Horácio (Oscarito), que depois de sofrer um insólito acidente vai parar no Reino de Gaza, muitos anos antes de Cristo. Lá ele conhece Sansão (Wilson Viana) cuja força descomunal vinha de uma \"milagrosa\" peruca. Ao trocar a tal peruca de Sansão por um isqueiro, Horácio transforma-se num homem forte e poderoso, passando a reinar em Gaza como um ditador bonachão. A partir daí, nosso herói se mete em muitas trapalhadas, numa das comédias mais inteligentes do cinema brasileiro. Paródia ao filme homônimo de Cecil B. de Mille, \"Sansão e Dalila\", de inspiração bíblica, o filme é uma crítica ao autoritarismo e ao populismo político, de Getúlio Vargas, que, no ano anterior ao das filmagens, era presidente do Brasil o \"populista\".",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1054561,
+      "title": "Abraço de Mãe",
+      "original_title": "Abraço de Mãe",
+      "release_date": "2024-10-03",
+      "vote_average": 6.1,
+      "popularity": 4.4707,
+      "overview": "Durante uma tempestade torrencial, uma equipe de bombeiros é enviada a um asilo em risco de desabamento. A missão: evacuar o local e sair de lá com vida.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 564427,
+      "title": "Minha Vida em Marte",
+      "original_title": "Minha Vida em Marte",
+      "release_date": "2018-12-27",
+      "vote_average": 7.853,
+      "popularity": 4.4556,
+      "overview": "Fernanda está casada com Tom, com quem tem uma filha de cinco anos, Joana. O casal está em meio ao desgaste causado pelo convívio por muitos anos, o que gera atritos constantes. Quem a ajuda a superar a crise é seu sócio Aníbal, parceiro inseparável durante a árdua jornada entre salvar o casamento ou pôr fim a ele.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 348545,
+      "title": "Através da Sombra",
+      "original_title": "Através da Sombra",
+      "release_date": "2015-11-10",
+      "vote_average": 5.4,
+      "popularity": 4.4196,
+      "overview": "Laura é contratada como professora de dois órfãos que residem na fazenda de um tio no interior do Rio de Janeiro no início do século 20. Aos poucos, ela constata que as crianças estão sob influências malignas de espíritos hostis e se empenha em descobrir o que está por trás de todo esse mistério. Conforme se envolve com a situação, mais enigmático lhe parece o comportamento ambíguo das crianças.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 148754,
+      "title": "Guidable: A Verdadeira História do Ratos de Porão",
+      "original_title": "Guidable: A Verdadeira História do Ratos de Porão",
+      "release_date": "2008-12-30",
+      "vote_average": 7.5,
+      "popularity": 4.4177,
+      "overview": "A história não censurada da banda brasileira Ratos de Porão, uma das mais antigas bandas de hardcore do mundo. Quase três décadas de drogas, loucura e muito barulho, contadas pelas pessoas que fizeram e ainda fazem parte dessa instituição de rock pesado.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 49393,
+      "title": "Favela Rising",
+      "original_title": "Favela Rising",
+      "release_date": "2005-04-24",
+      "vote_average": 5.8,
+      "popularity": 4.3759,
+      "overview": "",
+      "original_language": "en",
+      "production_countries": [
+        "Brazil",
+        "United States of America"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 173928,
+      "title": "O Mistério da Estrada de Sintra",
+      "original_title": "O Mistério da Estrada de Sintra",
+      "release_date": "2007-05-03",
+      "vote_average": 5.7,
+      "popularity": 4.3306,
+      "overview": "Verão de 1870. Dois escritores, Eça de Queirós e Ramalho Ortigão, escrevem um policial a quatro mãos para o Diário de Notícias. Ramalho é raptado. O desafio está lançado.",
+      "original_language": "pt",
+      "production_countries": [
+        "Portugal",
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 417505,
+      "title": "Dolores - Uma Mulher, Dois Amores",
+      "original_title": "Dolores",
+      "release_date": "2016-08-18",
+      "vote_average": 8.7,
+      "popularity": 4.307,
+      "overview": "",
+      "original_language": "es",
+      "production_countries": [
+        "Argentina",
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 19147,
+      "title": "O Homem Que Desafiou o Diabo",
+      "original_title": "O Homem Que Desafiou o Diabo",
+      "release_date": "2007-09-28",
+      "vote_average": 6.977,
+      "popularity": 4.2892,
+      "overview": "Ao chegar à cidade de Jardim dos Caiacós, o caixeiro viajante Zé Araújo (Marcos Palmeira) acaba seduzindo a filha de um comerciante e é obrigado a se casar com ela. A partir de então, a liberdade dele termina e ele se torna um escravo do sogro nas vendas e da mulher na cama. Ao perceber que se tornou alvo de brincadeiras na cidade, Araújo decide acabar com a vida que está levando e começar uma nova, desta vez como Ojuara.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 132608,
+      "title": "Reis e Ratos",
+      "original_title": "Reis e Ratos",
+      "release_date": "2012-02-17",
+      "vote_average": 3.6,
+      "popularity": 4.2626,
+      "overview": "No Rio de Janeiro de 1963, a história de vários personagens se interliga em meio ao cenário político da época. Um deles é Troy, um agente da CIA residente no Brasil que planeja uma armadilha para o Presidente.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 127880,
+      "title": "Infância Clandestina",
+      "original_title": "Infancia clandestina",
+      "release_date": "2012-09-16",
+      "vote_average": 6.9,
+      "popularity": 4.2585,
+      "overview": "Argentina, 1979. Da mesma forma que seu pai (César Troncoso), sua mãe (Natalia Oreiro) e seu querido tio Beto (Ernesto Alterio), Juan (Teo Gutiérrez Romero) leva uma vida clandestina. Fora do berço familiar ele é conhecido por um outro nome, Ernesto, e precisa manter as aparências pelo bem da família, que luta contra a ditadura militar que governa o país. Tudo corre bem, até ele se apaixonar por Maria, uma colega de escola. Sonhando com voos mais altos ao seu lado, ele passa por cima das rígidas regras familiares para poder ficar mais tempo com ela.",
+      "original_language": "es",
+      "production_countries": [
+        "Argentina",
+        "Brazil",
+        "Spain"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1186947,
+      "title": "Bandida - A Número Um",
+      "original_title": "Bandida - A Número Um",
+      "release_date": "2024-06-20",
+      "vote_average": 6.2,
+      "popularity": 4.2446,
+      "overview": "Aos nove anos, Rebeca é vendida por sua avó para o bicheiro que comandava a Rocinha. Disputada por bicheiros e traficantes, a comunidade passa por mudanças de poder. Rebeca vira mulher do traficante chefe e, com a morte do parceiro, sua sucessora. A eletrizante trajetória de crime, violência, drogas e amor de uma mulher chefe do tráfico na Rocinha, no Rio de Janeiro dos anos 1980.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 97989,
+      "title": "O Som ao Redor",
+      "original_title": "O Som ao Redor",
+      "release_date": "2012-11-19",
+      "vote_average": 7.1,
+      "popularity": 4.2428,
+      "overview": "A vida numa rua de classe média na zona sul do Recife toma um rumo inesperado, após a chegada de uma milícia que oferece a paz de espírito da segurança particular. A presença desses homens traz tranquilidade para alguns, e tensão para outros, numa comunidade que parece temer muita coisa. Enquanto isso, Bia (Maeve Jinkings), casada e mãe de duas crianças, precisa achar uma maneira de lidar com os latidos constantes do cão de seu vizinho.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 254291,
+      "title": "O País de São Saruê",
+      "original_title": "O País de São Saruê",
+      "release_date": "1971-01-01",
+      "vote_average": 8.0,
+      "popularity": 4.2129,
+      "overview": "O documentário discute as relações do homem com a natureza no sertão nordestino, onde predomina a luta contra a seca, o latifúndio e a miséria desde os tempos da colônia. É uma tentativa de se resgatar a memória de fatos antigos, os usos e costumes que distinguem essa região das outras do Brasil.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 444404,
+      "title": "Una especie de familia",
+      "original_title": "Una especie de familia",
+      "release_date": "2017-09-14",
+      "vote_average": 6.4,
+      "popularity": 4.2018,
+      "overview": "",
+      "original_language": "es",
+      "production_countries": [
+        "Argentina",
+        "Brazil",
+        "Denmark",
+        "France",
+        "Germany",
+        "Poland"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 735838,
+      "title": "Os Espetaculares",
+      "original_title": "Os Espetaculares",
+      "release_date": "2020-09-04",
+      "vote_average": 6.8,
+      "popularity": 4.181,
+      "overview": "Um comediante stand up precisa entrar numa competição para escapar da prisão e salvar seu bolso. Nessa trajetória inusitada, terá como companhia uma nerd, um sonhador e um lunático. Do diretor de Minha Mãe é uma peça e da produtora de Vai que dá Certo.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 434471,
+      "title": "Corpo Elétrico",
+      "original_title": "Corpo Elétrico",
+      "release_date": "2017-08-17",
+      "vote_average": 6.2,
+      "popularity": 4.1666,
+      "overview": "O verão está chegando e Elias tem sonhado muito com o mar. Na fábrica em que trabalha, as responsabilidades aumentam à medida em que o fim de ano se aproxima. Depois de uma noite fazendo hora extra, Elias e os operários decidem sair e tomar uma cerveja. É quando novas possibilidades de encontros surgem no horizonte de Elias.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 534992,
+      "title": "Pedro e Inês - O Amor Não Descansa",
+      "original_title": "Pedro e Inês",
+      "release_date": "2018-08-25",
+      "vote_average": 6.2,
+      "popularity": 4.1517,
+      "overview": "Inspirado nos verdadeiros acontecimentos do rei português D. Pedro (séc. XIV) que desenterrou a amante para torná-la rainha depois de morto. Este filme conta a história de Pedro, um homem internado em um hospital psiquiátrico por viajar de carro com o cadáver de sua amada, relembrando simultaneamente três vidas diferentes: uma do passado, outra da atualidade e outra de um futuro distópico.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France",
+        "Portugal"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 551506,
+      "title": "Boni Bonita",
+      "original_title": "Boni Bonita",
+      "release_date": "2019-05-09",
+      "vote_average": 7.2,
+      "popularity": 4.1166,
+      "overview": "\"Boni Bonita\" conta a história de Beatriz, uma argentina de 16 anos, que após a morte da mãe, se muda para o Brasil com seu pai ausente. Em um show, ela conhece Rogério, líder de uma banda independente que tem quase 40 anos e que luta contra a sombra do legado musical de seu avô. Forma-se uma relação incomum alimentada pela noção desconcertante do amor de Beatriz e as frustrações de Rogério.",
+      "original_language": "pt",
+      "production_countries": [
+        "Argentina",
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 217277,
+      "title": "De menor",
+      "original_title": "De menor",
+      "release_date": "2013-03-15",
+      "vote_average": 5.4,
+      "popularity": 4.1099,
+      "overview": "A advogada Helena é uma jovem idealista que defende crianças e jovens infratores. Ela tem a custódia de seu irmão caçula, Caio. Órfãos, os dois têm um relacionamento de muita cumplicidade e o afeto entre eles é visível, mas Caio é um adolescente instável e impulsivo, que vive cercado por amigos de reputação duvidosa. Um dia, o jovem comete um delito e torna-se réu na Vara da Infância e Juventude de Santos, local onde Helena trabalha.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 146541,
+      "title": "O Mistério de Robin Hood",
+      "original_title": "O Mistério de Robin Hood",
+      "release_date": "1990-10-13",
+      "vote_average": 4.4,
+      "popularity": 4.1071,
+      "overview": "O vagabundo Didi (Renato Aragão) é um Robin Hood moderno, que rouba dos contrabandistas e agiotas para dar aos necessitados. Ele mora em um esconderijo próximo a um circo e é apaixonado por Tatiana (Xuxa), a filha de um mágico. É neste circo que trabalham Fredo (Dedé Santana) e Tonho (Mussum), dois funcionários que vivem se metendo em trapalhadas. Além disso, Didi protege Rosa (Duda Little), uma menina desmemoriada e órfã, cuja existência ameaça os planos do bandido Gavião (Carlos Eduardo Dolabella).",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 818511,
+      "title": "Carga Máxima",
+      "original_title": "Carga Máxima",
+      "release_date": "2023-08-28",
+      "vote_average": 6.8,
+      "popularity": 4.0858,
+      "overview": "Com muita velocidade, perseguições e explosões nas pistas, vem aí no pinote CARGA MÁXIMA!",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 74349,
+      "title": "O Dragão da Maldade contra o Santo Guerreiro",
+      "original_title": "O Dragão da Maldade contra o Santo Guerreiro",
+      "release_date": "1969-06-14",
+      "vote_average": 6.9,
+      "popularity": 4.0851,
+      "overview": "Antônio é um antigo assassino de líderes revolucionários no Brasil que agora leva uma vida de ociosidade. Quando recebe um novo contrato, ele se sente revigorado. Até descobrir que seu novo alvo é um jovem líder com ideias relevantes que o farão começar uma nova vida como líder revolucionário.",
+      "original_language": "pt",
+      "production_countries": [
+        "Germany",
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 148183,
+      "title": "Oscar Niemeyer: A Vida é Um Sopro",
+      "original_title": "Oscar Niemeyer: A Vida é Um Sopro",
+      "release_date": "2007-01-14",
+      "vote_average": 6.9,
+      "popularity": 4.0762,
+      "overview": "Documentário relata a trajetória de vida e as opiniões do maior arquiteto brasileiro, que projetou algumas das principais construções de Brasília.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 51515,
+      "title": "Brincando nos Campos do Senhor",
+      "original_title": "At Play in the Fields of the Lord",
+      "release_date": "1991-12-06",
+      "vote_average": 6.4,
+      "popularity": 4.0748,
+      "overview": "Um grupo de missionários evangélicos vai para selva amazônica tentar \"pacificar\" a tribo dos Niaruna, um grupo pequeno porém impenetrável de índios que habitam a selva amazônica. Enquanto os religiosos buscam fazer com que os indígenas \"aceitem Jesus\", poderosos estão atrás das terras para explorar o ouro presente na área.",
+      "original_language": "en",
+      "production_countries": [
+        "Brazil",
+        "United States of America"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 786375,
+      "title": "A Primeira Morte de Joana",
+      "original_title": "A Primeira Morte de Joana",
+      "release_date": "2021-08-04",
+      "vote_average": 4.4,
+      "popularity": 4.0632,
+      "overview": "Joana, 13 anos, quer descobrir por que sua tia-avó faleceu aos 70 anos sem nunca ter namorado alguém. Ao encarar os valores da comunidade em que vive no sul do Brasil, percebe que todas as mulheres da sua família guardam segredos, o que traz à tona algo escondido nela mesma.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1302903,
+      "title": "Sala Escura",
+      "original_title": "Sala Escura",
+      "release_date": "2024-11-14",
+      "vote_average": 3.3,
+      "popularity": 3.9772,
+      "overview": "Uma sessão de pré-estréia de cinema para somente 9 espectadores ocorre numa grande sala da cidade. O filme começa a ser exibido e todos se preparam para curtir o entretenimento, mas a tela fica escura. Após uma confusão inicial surge a imagem de uma menina sendo friamente torturada por um homem vestido de Bate Bola, o palhaço de carnaval. Os espectadores ficam confusos e preocupados. Então descobrem que estão presos dentro da sala de cinema. A partir daí começam a ser torturados e mortos. Haverá um sobrevivente?",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 21253,
+      "title": "O Que é Isso, Companheiro?",
+      "original_title": "O Que é Isso, Companheiro?",
+      "release_date": "1997-10-01",
+      "vote_average": 7.5,
+      "popularity": 3.9449,
+      "overview": "O jornalista Fernando e seu amigo César abraçam a luta armada contra a ditadura militar no final da década de 60. Os dois se alistam num grupo guerrilheiro de esquerda. Em uma das ações do grupo militante, César é ferido e capturado pelos militares. Fernando então planeja o sequestro do embaixador dos Estados Unidos no Brasil, Charles Burke Elbrick, para negociar a liberdade de César e de outros companheiros presos.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 765613,
+      "title": "Emicida: AmarElo - É Tudo Pra Ontem",
+      "original_title": "Emicida: AmarElo - É Tudo Pra Ontem",
+      "release_date": "2020-12-08",
+      "vote_average": 8.6,
+      "popularity": 3.9021,
+      "overview": "Nos bastidores do show no Theatro Municipal de São Paulo, o rapper e ativista Emicida celebra o grande legado da cultura negra brasileira.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 198455,
+      "title": "Um Trem para as Estrelas",
+      "original_title": "Um Trem para as Estrelas",
+      "release_date": "1987-06-02",
+      "vote_average": 5.9,
+      "popularity": 3.8826,
+      "overview": "Neste drama brasileiro altamente estilizado, um saxofonista se lembra com carinho de uma noite maravilhosa passada com o amor de sua vida e decide reencontrá-la. Ele embarca em uma busca pelas ruas selvagens do Rio para encontrá-la. Ao longo do caminho, ele conhece uma variedade de estranhos personagens do submundo urbano.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 421386,
+      "title": "Como Se Tornar o Pior Aluno da Escola",
+      "original_title": "Como Se Tornar o Pior Aluno da Escola",
+      "release_date": "2017-10-12",
+      "vote_average": 5.6,
+      "popularity": 3.8616,
+      "overview": "Bernado e Pedro são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar. Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 466190,
+      "title": "O Matador",
+      "original_title": "O Matador",
+      "release_date": "2017-09-13",
+      "vote_average": 6.1,
+      "popularity": 3.8592,
+      "overview": "Cabeleira foi criado na mata por Sete Orelhas, um cangaceiro. Quando adulto, foi à cidade em busca do pai desaparecido e descobriu que ele era um matador que trabalhava para um francês que comandava o comércio de pedras preciosas na região. Nesse território sangrento, segue seu instinto como bicho feroz em uma cidade sem lei.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 173722,
+      "title": "Serras da Desordem",
+      "original_title": "Serras da Desordem",
+      "release_date": "2006-03-28",
+      "vote_average": 7.3,
+      "popularity": 3.7828,
+      "overview": "Carapirú é um índio nômade que escapa de um ataque surpresa de fazendeiros. Durante dez anos, anda sozinho pelas serras do Brasil central, até ser capturado em novembro de 1988, a dois mil quilômetros de seu ponto de partida.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 258968,
+      "title": "República dos Assassinos",
+      "original_title": "República dos Assassinos",
+      "release_date": "1979-11-11",
+      "vote_average": 5.1,
+      "popularity": 3.7809,
+      "overview": "Em 1970, os crimes do Esquadrão da Morte pelo requinte de violência provocaram uma onda de reações por todo o país. As fotos das vítimas, adornadas pela caveira, símbolo do grupo, causaram uma incômoda indignação. Esta é a história de Mateus Romeiro, o mais famoso dos policiais, que integrou o grupo dos Homens de Aço, uma das facções em que se dividia o esquadrão.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 55145,
+      "title": "A Grande Arte",
+      "original_title": "A Grande Arte",
+      "release_date": "1991-06-01",
+      "vote_average": 4.5,
+      "popularity": 3.7791,
+      "overview": "Acompanha o fotógrafo americano Peter Mandrake (Peter Coyote) que está desenvolvendo um livro sobre o Rio de Janeiro. Para vingar a morte de Gisele (Giulia Gam) e o estupro de sua namorada Marie (Amanda Pays), Peter decide aprender a arte de manusear facas com o assassino profissional Hermes (Tchéky Karyo).",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 45179,
+      "title": "Lua de Cristal",
+      "original_title": "Lua de Cristal",
+      "release_date": "1990-06-22",
+      "vote_average": 5.4,
+      "popularity": 3.7545,
+      "overview": "Chegando na cidade grande, Maria da Graça vai morar com a Tia Zuleika, uma autêntica bruxa, a prima Cidinha, que não fica atrás, e o primo Mauricinho, que se interessa pela prima, mas por motivos pouco recomendáveis. Em meio aos tormentos de Tia Zuleika e seus filhos, aparece Duda, a pequena vizinha que conduzirá Maria da Graça através dos caminhos perigosos da cidade grande. Bob é o outro amigo nesta hora difícil. Ele é desajeitado, mas é graças a ele que ela consegue o emprego. Emprego arrumado, ela pode começar suas sonhadas aulas de canto. As coisas começam, enfim, a melhorar para Maria da Graça. Mas nem tudo. O pilantra Mauricinho não desiste da prima. Sempre que pode, ele arruma encrenca e acaba raptando Maria da Graça. E é de novo Bob quem vai salvá-la. Ele é a materialização do Príncipe de seus sonhos. O reencontro com Bob é carregado de emoção. Como um conto de fadas, Príncipe é um cantor famoso e convida a agora estrela do show para cantar.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 480941,
+      "title": "Alguma Coisa Assim",
+      "original_title": "Alguma Coisa Assim",
+      "release_date": "2017-10-12",
+      "vote_average": 5.7,
+      "popularity": 3.7496,
+      "overview": "Enquanto buscam diversão, os jovens Caio (André Antunes) e Mari (Caroline Abras), vagam pela noite de São Paulo. Nesse contexto, entre o som e os silêncios, os dois vão se conhecendo ainda mais e ao longo de uma década se reencontram em três momentos muito importantes de suas vidas.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 227970,
+      "title": "Os Homens São de Marte... E é pra Lá Que Eu Vou!",
+      "original_title": "Os Homens São de Marte... E é pra Lá Que Eu Vou!",
+      "release_date": "2014-05-02",
+      "vote_average": 6.7,
+      "popularity": 3.7423,
+      "overview": "Fernanda, de 39 anos, trabalha organizando cerimônias de casamento, mas é solteira. Forte devota do amor, ela está à procura do par perfeito.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 126043,
+      "title": "Cartola - Música para os Olhos",
+      "original_title": "Cartola - Música para os Olhos",
+      "release_date": "2007-04-06",
+      "vote_average": 7.7,
+      "popularity": 3.7261,
+      "overview": "Conheça a história de vida e a obra de Angenor de Oliveira, mais conhecido como Cartola, grande ícone do samba e um dos mais importantes compositores da música popular brasileira.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 17358,
+      "title": "Meu Nome Não é Johnny",
+      "original_title": "Meu Nome não é Johnny",
+      "release_date": "2008-01-04",
+      "vote_average": 7.1,
+      "popularity": 3.7062,
+      "overview": "João Guilherme Estrella (Selton Mello) nasceu em uma família de classe média do Rio de Janeiro. Filho de um diretor do extinto Banco Nacional, ele cresceu no Jardim Botânico e frequentou os melhores colégios, tendo amigos entre as famílias mais influentes da cidade. Carismático e popular, João viveu intensamente os anos 80 e 90. Neste período ele conheceu o universo das drogas, mesmo sem jamais pisar numa favela. Logo tornou-se o maior vendedor de drogas do Rio de Janeiro, sendo preso em 1995. A partir de então passou a frenquentar o cotidiano do sistema carcerário brasileiro.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "United States of America"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 104840,
+      "title": "Maranhão 66",
+      "original_title": "Maranhão 66",
+      "release_date": "1966-01-01",
+      "vote_average": 6.7,
+      "popularity": 3.7008,
+      "overview": "Posse de José Sarney, governador do Estado do Maranhão. Ao discurso do político eleito, opõem-se as imagens das mazelas sociais e demais problemas crônicos do Estado nordestino: famintos desassistidos, casas miseráveis e doentes desamparados. (Cinemateca Brasileira)",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 762792,
+      "title": "Os Primeiros Soldados",
+      "original_title": "Os Primeiros Soldados",
+      "release_date": "2021-11-12",
+      "vote_average": 6.3,
+      "popularity": 3.6589,
+      "overview": "​Em Vitória, na virada de 1983, um grupo de jovens LGBTQIA+ celebra o réveillon sem ideia do que se avizinha. O biólogo Suzano sabe que algo de muito terrível começa a transtornar seu corpo. O desespero diante da falta de informação e do futuro incerto aproxima Suzano da artista transexual Rose e do videomaker Humberto, igualmente doentes. Juntos eles tentarão sobreviver à primeira onda da epidemia de AIDS.​",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 230723,
+      "title": "A Opinião Pública",
+      "original_title": "A Opinião Pública",
+      "release_date": "1967-01-01",
+      "vote_average": 5.6,
+      "popularity": 3.5875,
+      "overview": "Documentário sobre a classe média carioca, examinada através dos depoimentos dos seus próprios membros, que abordam assuntos como a juventude, a família burguesa, fenômenos sensacionalistas, misticismo, política e meios de comunicação de massa. Filme de tese, gravado segundo as regras do cinema-verdade da década de 60.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 255332,
+      "title": "O Fio da Memória",
+      "original_title": "O Fio da Memória",
+      "release_date": "1991-12-31",
+      "vote_average": 6.9,
+      "popularity": 3.5633,
+      "overview": "Confira um registro sobre a identidade cultural dos negros e como eles povoam o imaginário popular. O foco está no trabalho de Gabriel Joaquim dos Santos, trabalhador de uma mina de sal, semianalfabeto e artista.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 194843,
+      "title": "Menino de Engenho",
+      "original_title": "Menino de Engenho",
+      "release_date": "1966-05-19",
+      "vote_average": 7.0,
+      "popularity": 3.5489,
+      "overview": "Ao ficar órfão, um menino passa a ser criado por seu avô e tios, ricos proprietários rurais, em um engenho de cana-de açúcar onde cresce, estuda, conhece a política, o amor e a desilusão.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1165264,
+      "title": "A Bela América",
+      "original_title": "A Bela América",
+      "release_date": "2023-10-05",
+      "vote_average": 6.8,
+      "popularity": 3.5463,
+      "overview": "O cozinheiro Lucas entra na casa de América, estrela de televisão e candidata presidencial, para seduzi-la com refeições extraordinárias.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "Portugal"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1057929,
+      "title": "Luz, Câmera, 50 Anos: Ó Paí, Ó - O Filme",
+      "original_title": "Luz, Câmera, 50 Anos: Ó Paí, Ó - O Filme",
+      "release_date": "2015-01-14",
+      "vote_average": 8.0,
+      "popularity": 3.5412,
+      "overview": "Adaptação da série exibida em 2008. A vida dos moradores de um animado cortiço do centro histórico de Salvador é o ponto de partida da história. Eles compartilham a paixão pelo Carnaval e a antipatia pela síndica do prédio, Dona Joana, uma religiosa intransigente que se incomoda com a farra dos condôminos.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 553608,
+      "title": "Cinderela Pop",
+      "original_title": "Cinderela Pop",
+      "release_date": "2019-02-28",
+      "vote_average": 6.442,
+      "popularity": 3.5408,
+      "overview": "Cintia é uma princesa dos dias atuais: antenada, com opiniões próprias, decidida e adora música. Essa princesa pop morava com os pais em um castelo enorme de onde via toda a cidade. Todas as noites, ela olhava pela janela, de onde ficava admirando a vista e sonhando com um príncipe que ainda não conhecia. Porém, um dia, o castelo de Cintia desmoronou e com ele tudo à sua volta. Com a separação dos pais, ela vai morar com a tia, se afasta do pai e, principalmente, deixa de acreditar no amor. Ela só não contava com um detalhe... Havia mesmo um belo príncipe encantando em sua história. E tudo o que ele mais queria era descongelar o coração da nossa gata (nada) borralheira!",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 254984,
+      "title": "Babilônia 2000",
+      "original_title": "Babilônia 2000",
+      "release_date": "2001-11-22",
+      "vote_average": 7.3,
+      "popularity": 3.4812,
+      "overview": "No Morro da Babilônia, câmeras de uma equipe de filmagem acompanham os preparativos locais para o Réveillon, assim como ouvem os moradores locais a fim de saber as expectativas deles para o ano 2000 e para que possam fazer um balanço de suas vidas.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 652020,
+      "title": "Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo",
+      "original_title": "A Primeira Tentação de Cristo",
+      "release_date": "2019-12-03",
+      "vote_average": 5.5,
+      "popularity": 3.4804,
+      "overview": "Jesus completa 30 anos e leva um convidado especial para conhecer sua família, mas a festa reserva outras surpresas. Um especial de Natal que só poderia ser feito pelo Porta dos Fundos.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 49374,
+      "title": "O Bem Amado",
+      "original_title": "O Bem Amado",
+      "release_date": "2010-07-23",
+      "vote_average": 6.2,
+      "popularity": 3.4675,
+      "overview": "Odorico Paraguaçu (Marco Nanini) é o oportunista prefeito da cidade fictícia de Sucupira. Após se eleger com a promessa de construir um cemitério municipal, precisa tomar providências questionáveis para finalizar a obra. O maior problema é que ninguém morre para que ele possa inaugurar o cemitério, e assim acalmar o povo.\r Odorico enfrenta a oposição de Vladimir (Tonico Pereira), dono do jornal local, e do repórter Neco Pedreira (Caio Blat), que é apaixonado por sua filha, Violeta (Maria Flor). Os aliados do prefeito são seu fiel assessor Dirceu Borboleta (Matheus Nachtergaele) e as irmãs Cajazeiras, três solteironas com quem ele mantém relacionamentos amorosos secretos.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 231223,
+      "title": "Como Nascem os Anjos",
+      "original_title": "Como Nascem os Anjos",
+      "release_date": "1996-08-06",
+      "vote_average": 7.0,
+      "popularity": 3.4636,
+      "overview": "O bronco Maguila mata sem querer o chefe do tráfico no Morro Dona Marta, no Rio de Janeiro. Perseguido pelos soldados do tráfico, ele é obrigado a fugir da favela com Branquinha, uma menina de 13 anos que, apesar da diferença de idade, diz ser mulher de Maguila. Na confusão, acabam levando Japa, outra criança, fiel amigo de Branquinha.  No meio da fuga, o trio para na porta da garagem de uma mansão no bairro da Joatinga, onde encontram William, um cidadão americano, saindo para o trabalho. Maguila pede para usar o banheiro, pois, segundo Branquinha, \"ele foi tão bem educado pela mãe que não consegue urinar na rua.\"  William pensa que é uma tentativa de assalto. Uma reação inesperada acaba obrigando o trio da favela a entrar em casa, onde o americano mora com sua filha Julie e a empregada Conceição. Lá, os personagens viram reféns de uma estranha situação que, num crescendo de tensão e nonsense, toma proporções que jamais poderiam prever.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 317523,
+      "title": "Os Doces Bárbaros",
+      "original_title": "Os Doces Bárbaros",
+      "release_date": "1977-09-01",
+      "vote_average": 7.7,
+      "popularity": 3.4421,
+      "overview": "Um registro da comemoração dos dez anos de carreira dos cantores baianos Caetano Veloso, Gilberto Gil, Maria Bethânia e Gal Costa, que formavam o grupo intitulado \"Doces Bárbaros\".",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 229057,
+      "title": "Relocos y Repasados",
+      "original_title": "Relocos y Repasados",
+      "release_date": "2013-10-11",
+      "vote_average": 5.7,
+      "popularity": 3.4071,
+      "overview": "",
+      "original_language": "es",
+      "production_countries": [
+        "Brazil",
+        "Uruguay"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 1429834,
+      "title": "Família, Pero no Mucho",
+      "original_title": "Família, Pero no Mucho",
+      "release_date": "2025-07-17",
+      "vote_average": 6.275,
+      "popularity": 3.4041,
+      "overview": "Um pai brasileiro viaja até Bariloche com a família para conhecer os futuros sogros da filha — até que tudo acaba em treta.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 159118,
+      "title": "Jubiabá",
+      "original_title": "Jubiabá",
+      "release_date": "1987-09-17",
+      "vote_average": 5.2,
+      "popularity": 3.3441,
+      "overview": "O amor do negro Antônio Balduíno pela loura Lindinalva. Tudo começou quando ele, ainda criança, foi morar na casa do Comendador Ferreira, pai de Lindinalva. O pequeno órfão ganhou a proteção do chefe da casa e o ódio da empregada portuguesa, Amélia. Expulso da casa dos ricos protetores, Balduíno torna-se um homem famoso entre os malandros e marinheiros da beira do cais, lutador imbatível e amante famoso. Torna-se o imperador das ruas da Bahia. Mas o gigante negro tinha o coração escravo de Lindinalva e a cabeça de Jubiabá, o pai-de-santo.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 510228,
+      "title": "Raiva",
+      "original_title": "Raiva",
+      "release_date": "2018-10-31",
+      "vote_average": 6.8,
+      "popularity": 3.3391,
+      "overview": "Alentejo, Portugal, 1950. Em uma região desolada, onde o vento parece falar, onde reina a miséria e a fome sobre os mais pobres, um homem desesperado se vinga daqueles que causaram sua ruína durante a noite mais escura, incapaz de obter honestamente o pão necessário para alimentar sua família durante o dia.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil",
+        "France",
+        "Portugal"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 662745,
+      "title": "Turma da Mônica: Lições",
+      "original_title": "Turma da Mônica: Lições",
+      "release_date": "2021-12-30",
+      "vote_average": 8.2,
+      "popularity": 3.336,
+      "overview": "Na sequência de Turma da Mônica: Laços, acompanhamos Mônica, Cebolinha, Magali e Cascão lidando com as consequências de um erro cometido na escola. Ao mesmo tempo, eles enfrentam transformações da passagem da infância para a adolescência, e estão prestes a descobrir o valor da amizade.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    },
+    {
+      "id": 60142,
+      "title": "Edifício Master",
+      "original_title": "Edifício Master",
+      "release_date": "2002-11-22",
+      "vote_average": 8.0,
+      "popularity": 3.2967,
+      "overview": "O grande documentarista Eduardo Coutinho usa como mote um enorme edifício em Copacabana, como se fosse falar ou fazer os moradores falarem sobre o dia-a-dia do lugar mas, de forma espontânea, recebe e nos passa histórias de vidas, segredos e confidências, deixando mais claro ainda o tamanho da diversidade de rumos que tomamos neste mundo, separados apenas por umas paredes.",
+      "original_language": "pt",
+      "production_countries": [
+        "Brazil"
+      ],
+      "strategy": "discover_popularity.desc"
+    }
+  ],
+  "collection_date": "2025-09-26",
+  "country": "Brazil (BR)",
+  "description": "Collection of Brazilian movies from TMDB"
+}
